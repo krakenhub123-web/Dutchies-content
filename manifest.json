@@ -1,0 +1,17 @@
+{
+  "contentVersion": 1,
+  "packs": [
+    {
+      "id": "sentences-core",
+      "file": "packs/sentences-core.json",
+      "version": 1,
+      "sha256": "eb7a5fd5cfaf1588cbbe60b34308539f8603be7509cbb917e27e9b723b382554"
+    },
+    {
+      "id": "words-core",
+      "file": "packs/words-core.json",
+      "version": 1,
+      "sha256": "7152dd1bdb1cfc8d698aeeb24b980ce4b3a5522ad55e3bf0ff1fa87ad6252ce9"
+    }
+  ]
+}

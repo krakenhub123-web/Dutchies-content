@@ -1,0 +1,1790 @@
+{
+ "id": "sentences-core",
+ "title": "Alltagssätze & Redewendungen",
+ "lessons": [
+  {
+   "id": "l-0101",
+   "title": "Begrüßen & Verabschieden 1",
+   "type": "sentences",
+   "order": 10,
+   "chapter": "Begrüßen & Verabschieden"
+  },
+  {
+   "id": "l-0102",
+   "title": "Begrüßen & Verabschieden 2",
+   "type": "sentences",
+   "order": 20,
+   "chapter": "Begrüßen & Verabschieden"
+  },
+  {
+   "id": "l-0103",
+   "title": "Begrüßen & Verabschieden 3",
+   "type": "sentences",
+   "order": 30,
+   "chapter": "Begrüßen & Verabschieden"
+  },
+  {
+   "id": "l-0104",
+   "title": "Höflichkeit 1",
+   "type": "sentences",
+   "order": 40,
+   "chapter": "Höflichkeit"
+  },
+  {
+   "id": "l-0105",
+   "title": "Höflichkeit 2",
+   "type": "sentences",
+   "order": 50,
+   "chapter": "Höflichkeit"
+  },
+  {
+   "id": "l-0106",
+   "title": "Verstehen & Sprache 1",
+   "type": "sentences",
+   "order": 60,
+   "chapter": "Verstehen & Sprache"
+  },
+  {
+   "id": "l-0107",
+   "title": "Verstehen & Sprache 2",
+   "type": "sentences",
+   "order": 70,
+   "chapter": "Verstehen & Sprache"
+  },
+  {
+   "id": "l-0108",
+   "title": "Kennenlernen & Smalltalk 1",
+   "type": "sentences",
+   "order": 80,
+   "chapter": "Kennenlernen & Smalltalk"
+  },
+  {
+   "id": "l-0109",
+   "title": "Kennenlernen & Smalltalk 2",
+   "type": "sentences",
+   "order": 90,
+   "chapter": "Kennenlernen & Smalltalk"
+  },
+  {
+   "id": "l-0110",
+   "title": "Reaktionen 1",
+   "type": "sentences",
+   "order": 100,
+   "chapter": "Reaktionen"
+  },
+  {
+   "id": "l-0111",
+   "title": "Reaktionen 2",
+   "type": "sentences",
+   "order": 110,
+   "chapter": "Reaktionen"
+  },
+  {
+   "id": "l-0112",
+   "title": "Reaktionen 3",
+   "type": "sentences",
+   "order": 120,
+   "chapter": "Reaktionen"
+  },
+  {
+   "id": "l-0113",
+   "title": "Meinung",
+   "type": "sentences",
+   "order": 130,
+   "chapter": "Meinung"
+  },
+  {
+   "id": "l-0114",
+   "title": "Wünsche & Anlässe",
+   "type": "sentences",
+   "order": 140,
+   "chapter": "Wünsche & Anlässe"
+  },
+  {
+   "id": "l-0115",
+   "title": "Café & Restaurant 1",
+   "type": "sentences",
+   "order": 150,
+   "chapter": "Café & Restaurant"
+  },
+  {
+   "id": "l-0116",
+   "title": "Café & Restaurant 2",
+   "type": "sentences",
+   "order": 160,
+   "chapter": "Café & Restaurant"
+  },
+  {
+   "id": "l-0117",
+   "title": "Einkaufen",
+   "type": "sentences",
+   "order": 170,
+   "chapter": "Einkaufen"
+  },
+  {
+   "id": "l-0118",
+   "title": "Unterwegs",
+   "type": "sentences",
+   "order": 180,
+   "chapter": "Unterwegs"
+  },
+  {
+   "id": "l-0119",
+   "title": "Verabreden & Zeit 1",
+   "type": "sentences",
+   "order": 190,
+   "chapter": "Verabreden & Zeit"
+  },
+  {
+   "id": "l-0120",
+   "title": "Verabreden & Zeit 2",
+   "type": "sentences",
+   "order": 200,
+   "chapter": "Verabreden & Zeit"
+  },
+  {
+   "id": "l-0121",
+   "title": "Alltag",
+   "type": "sentences",
+   "order": 210,
+   "chapter": "Alltag"
+  },
+  {
+   "id": "l-0122",
+   "title": "Redewendungen 1",
+   "type": "sentences",
+   "order": 220,
+   "chapter": "Redewendungen"
+  },
+  {
+   "id": "l-0123",
+   "title": "Redewendungen 2",
+   "type": "sentences",
+   "order": 230,
+   "chapter": "Redewendungen"
+  },
+  {
+   "id": "l-0124",
+   "title": "Redewendungen 3",
+   "type": "sentences",
+   "order": 240,
+   "chapter": "Redewendungen"
+  },
+  {
+   "id": "l-0125",
+   "title": "Sprichwörter 1",
+   "type": "sentences",
+   "order": 250,
+   "chapter": "Sprichwörter"
+  },
+  {
+   "id": "l-0126",
+   "title": "Sprichwörter 2",
+   "type": "sentences",
+   "order": 260,
+   "chapter": "Sprichwörter"
+  },
+  {
+   "id": "l-0127",
+   "title": "Sprichwörter 3",
+   "type": "sentences",
+   "order": 270,
+   "chapter": "Sprichwörter"
+  }
+ ],
+ "words": [],
+ "sentences": [
+  {
+   "id": "s-0001",
+   "nl": "Hoi! / Hallo!",
+   "de": "Hallo!",
+   "category": "Begrüßen & Verabschieden",
+   "hint": "informell",
+   "lesson": "l-0101"
+  },
+  {
+   "id": "s-0002",
+   "nl": "Goedemorgen.",
+   "de": "Guten Morgen.",
+   "category": "Begrüßen & Verabschieden",
+   "hint": null,
+   "lesson": "l-0101"
+  },
+  {
+   "id": "s-0003",
+   "nl": "Goedemiddag.",
+   "de": "Guten Tag.",
+   "category": "Begrüßen & Verabschieden",
+   "hint": "ab etwa 12 Uhr",
+   "lesson": "l-0101"
+  },
+  {
+   "id": "s-0004",
+   "nl": "Goedenavond.",
+   "de": "Guten Abend.",
+   "category": "Begrüßen & Verabschieden",
+   "hint": null,
+   "lesson": "l-0101"
+  },
+  {
+   "id": "s-0005",
+   "nl": "Hoe gaat het?",
+   "de": "Wie geht's?",
+   "category": "Begrüßen & Verabschieden",
+   "hint": null,
+   "lesson": "l-0101"
+  },
+  {
+   "id": "s-0006",
+   "nl": "Hoe gaat het met u?",
+   "de": "Wie geht es Ihnen?",
+   "category": "Begrüßen & Verabschieden",
+   "hint": "formell (u)",
+   "lesson": "l-0101"
+  },
+  {
+   "id": "s-0007",
+   "nl": "Goed, en met jou?",
+   "de": "Gut, und dir?",
+   "category": "Begrüßen & Verabschieden",
+   "hint": null,
+   "lesson": "l-0101"
+  },
+  {
+   "id": "s-0008",
+   "nl": "Prima, dank je.",
+   "de": "Prima, danke.",
+   "category": "Begrüßen & Verabschieden",
+   "hint": null,
+   "lesson": "l-0101"
+  },
+  {
+   "id": "s-0009",
+   "nl": "Het gaat wel.",
+   "de": "Es geht so.",
+   "category": "Begrüßen & Verabschieden",
+   "hint": null,
+   "lesson": "l-0102"
+  },
+  {
+   "id": "s-0010",
+   "nl": "Alles goed?",
+   "de": "Alles gut?",
+   "category": "Begrüßen & Verabschieden",
+   "hint": "sehr gängige Begrüßung; Antwort: „Ja, prima!“",
+   "lesson": "l-0102"
+  },
+  {
+   "id": "s-0011",
+   "nl": "Gaat 'ie?",
+   "de": "Alles klar?",
+   "category": "Begrüßen & Verabschieden",
+   "hint": "sehr umgangssprachlich",
+   "lesson": "l-0102"
+  },
+  {
+   "id": "s-0012",
+   "nl": "Lang niet gezien!",
+   "de": "Lange nicht gesehen!",
+   "category": "Begrüßen & Verabschieden",
+   "hint": null,
+   "lesson": "l-0102"
+  },
+  {
+   "id": "s-0013",
+   "nl": "Leuk je te ontmoeten.",
+   "de": "Schön, dich kennenzulernen.",
+   "category": "Begrüßen & Verabschieden",
+   "hint": null,
+   "lesson": "l-0102"
+  },
+  {
+   "id": "s-0014",
+   "nl": "Doei! / Doeg!",
+   "de": "Tschüss!",
+   "category": "Begrüßen & Verabschieden",
+   "hint": "informell",
+   "lesson": "l-0102"
+  },
+  {
+   "id": "s-0015",
+   "nl": "Tot ziens.",
+   "de": "Auf Wiedersehen.",
+   "category": "Begrüßen & Verabschieden",
+   "hint": null,
+   "lesson": "l-0102"
+  },
+  {
+   "id": "s-0016",
+   "nl": "Tot straks.",
+   "de": "Bis später.",
+   "category": "Begrüßen & Verabschieden",
+   "hint": "man sieht sich noch am selben Tag",
+   "lesson": "l-0102"
+  },
+  {
+   "id": "s-0017",
+   "nl": "Tot zo.",
+   "de": "Bis gleich.",
+   "category": "Begrüßen & Verabschieden",
+   "hint": null,
+   "lesson": "l-0103"
+  },
+  {
+   "id": "s-0018",
+   "nl": "Tot morgen.",
+   "de": "Bis morgen.",
+   "category": "Begrüßen & Verabschieden",
+   "hint": null,
+   "lesson": "l-0103"
+  },
+  {
+   "id": "s-0019",
+   "nl": "Fijne dag nog!",
+   "de": "Noch einen schönen Tag!",
+   "category": "Begrüßen & Verabschieden",
+   "hint": null,
+   "lesson": "l-0103"
+  },
+  {
+   "id": "s-0020",
+   "nl": "Fijn weekend!",
+   "de": "Schönes Wochenende!",
+   "category": "Begrüßen & Verabschieden",
+   "hint": null,
+   "lesson": "l-0103"
+  },
+  {
+   "id": "s-0021",
+   "nl": "Welterusten.",
+   "de": "Gute Nacht. / Schlaf gut.",
+   "category": "Begrüßen & Verabschieden",
+   "hint": "nur vor dem Schlafengehen",
+   "lesson": "l-0103"
+  },
+  {
+   "id": "s-0022",
+   "nl": "De groeten aan …",
+   "de": "Grüße an …",
+   "category": "Begrüßen & Verabschieden",
+   "hint": null,
+   "lesson": "l-0103"
+  },
+  {
+   "id": "s-0023",
+   "nl": "Dank je wel.",
+   "de": "Vielen Dank.",
+   "category": "Höflichkeit",
+   "hint": "informell (je)",
+   "lesson": "l-0104"
+  },
+  {
+   "id": "s-0024",
+   "nl": "Dank u wel.",
+   "de": "Vielen Dank.",
+   "category": "Höflichkeit",
+   "hint": "formell (u)",
+   "lesson": "l-0104"
+  },
+  {
+   "id": "s-0025",
+   "nl": "Bedankt!",
+   "de": "Danke!",
+   "category": "Höflichkeit",
+   "hint": null,
+   "lesson": "l-0104"
+  },
+  {
+   "id": "s-0026",
+   "nl": "Graag gedaan.",
+   "de": "Gern geschehen.",
+   "category": "Höflichkeit",
+   "hint": null,
+   "lesson": "l-0104"
+  },
+  {
+   "id": "s-0027",
+   "nl": "Geen dank.",
+   "de": "Keine Ursache.",
+   "category": "Höflichkeit",
+   "hint": null,
+   "lesson": "l-0104"
+  },
+  {
+   "id": "s-0028",
+   "nl": "Alsjeblieft. / Alstublieft.",
+   "de": "Bitte. / Bitte schön.",
+   "category": "Höflichkeit",
+   "hint": "auch beim Überreichen; alstublieft = formell",
+   "lesson": "l-0104"
+  },
+  {
+   "id": "s-0029",
+   "nl": "Sorry!",
+   "de": "Entschuldigung!",
+   "category": "Höflichkeit",
+   "hint": null,
+   "lesson": "l-0105"
+  },
+  {
+   "id": "s-0030",
+   "nl": "Pardon, mag ik even langs?",
+   "de": "Entschuldigung, darf ich mal vorbei?",
+   "category": "Höflichkeit",
+   "hint": null,
+   "lesson": "l-0105"
+  },
+  {
+   "id": "s-0031",
+   "nl": "Neem me niet kwalijk.",
+   "de": "Entschuldigen Sie bitte.",
+   "category": "Höflichkeit",
+   "hint": "formell",
+   "lesson": "l-0105"
+  },
+  {
+   "id": "s-0032",
+   "nl": "Geeft niks.",
+   "de": "Macht nichts.",
+   "category": "Höflichkeit",
+   "hint": null,
+   "lesson": "l-0105"
+  },
+  {
+   "id": "s-0033",
+   "nl": "Geen probleem.",
+   "de": "Kein Problem.",
+   "category": "Höflichkeit",
+   "hint": null,
+   "lesson": "l-0105"
+  },
+  {
+   "id": "s-0034",
+   "nl": "Met alle plezier.",
+   "de": "Sehr gerne.",
+   "category": "Höflichkeit",
+   "hint": null,
+   "lesson": "l-0105"
+  },
+  {
+   "id": "s-0035",
+   "nl": "Ik begrijp het niet.",
+   "de": "Ich verstehe das nicht.",
+   "category": "Verstehen & Sprache",
+   "hint": null,
+   "lesson": "l-0106"
+  },
+  {
+   "id": "s-0036",
+   "nl": "Ik snap het (niet).",
+   "de": "Ich kapier's (nicht).",
+   "category": "Verstehen & Sprache",
+   "hint": "umgangssprachlich",
+   "lesson": "l-0106"
+  },
+  {
+   "id": "s-0037",
+   "nl": "Kunt u dat herhalen?",
+   "de": "Können Sie das wiederholen?",
+   "category": "Verstehen & Sprache",
+   "hint": null,
+   "lesson": "l-0106"
+  },
+  {
+   "id": "s-0038",
+   "nl": "Kun je wat langzamer praten?",
+   "de": "Kannst du etwas langsamer sprechen?",
+   "category": "Verstehen & Sprache",
+   "hint": null,
+   "lesson": "l-0106"
+  },
+  {
+   "id": "s-0039",
+   "nl": "Wat betekent dat?",
+   "de": "Was bedeutet das?",
+   "category": "Verstehen & Sprache",
+   "hint": null,
+   "lesson": "l-0106"
+  },
+  {
+   "id": "s-0040",
+   "nl": "Hoe zeg je … in het Nederlands?",
+   "de": "Wie sagt man … auf Niederländisch?",
+   "category": "Verstehen & Sprache",
+   "hint": null,
+   "lesson": "l-0106"
+  },
+  {
+   "id": "s-0041",
+   "nl": "Hoe spreek je dat uit?",
+   "de": "Wie spricht man das aus?",
+   "category": "Verstehen & Sprache",
+   "hint": null,
+   "lesson": "l-0106"
+  },
+  {
+   "id": "s-0042",
+   "nl": "Spreekt u Engels?",
+   "de": "Sprechen Sie Englisch?",
+   "category": "Verstehen & Sprache",
+   "hint": null,
+   "lesson": "l-0107"
+  },
+  {
+   "id": "s-0043",
+   "nl": "Ik spreek een beetje Nederlands.",
+   "de": "Ich spreche ein bisschen Niederländisch.",
+   "category": "Verstehen & Sprache",
+   "hint": null,
+   "lesson": "l-0107"
+  },
+  {
+   "id": "s-0044",
+   "nl": "Ik ben Nederlands aan het leren.",
+   "de": "Ich lerne gerade Niederländisch.",
+   "category": "Verstehen & Sprache",
+   "hint": "„aan het + Infinitiv“ = gerade dabei sein",
+   "lesson": "l-0107"
+  },
+  {
+   "id": "s-0045",
+   "nl": "Wat zei je?",
+   "de": "Was hast du gesagt?",
+   "category": "Verstehen & Sprache",
+   "hint": null,
+   "lesson": "l-0107"
+  },
+  {
+   "id": "s-0046",
+   "nl": "Hoe bedoel je?",
+   "de": "Wie meinst du das?",
+   "category": "Verstehen & Sprache",
+   "hint": null,
+   "lesson": "l-0107"
+  },
+  {
+   "id": "s-0047",
+   "nl": "Ik weet het niet.",
+   "de": "Ich weiß es nicht.",
+   "category": "Verstehen & Sprache",
+   "hint": null,
+   "lesson": "l-0107"
+  },
+  {
+   "id": "s-0048",
+   "nl": "Geen idee.",
+   "de": "Keine Ahnung.",
+   "category": "Verstehen & Sprache",
+   "hint": null,
+   "lesson": "l-0107"
+  },
+  {
+   "id": "s-0049",
+   "nl": "Hoe heet je?",
+   "de": "Wie heißt du?",
+   "category": "Kennenlernen & Smalltalk",
+   "hint": null,
+   "lesson": "l-0108"
+  },
+  {
+   "id": "s-0050",
+   "nl": "Ik heet …",
+   "de": "Ich heiße …",
+   "category": "Kennenlernen & Smalltalk",
+   "hint": null,
+   "lesson": "l-0108"
+  },
+  {
+   "id": "s-0051",
+   "nl": "Waar kom je vandaan?",
+   "de": "Woher kommst du?",
+   "category": "Kennenlernen & Smalltalk",
+   "hint": null,
+   "lesson": "l-0108"
+  },
+  {
+   "id": "s-0052",
+   "nl": "Ik kom uit Duitsland.",
+   "de": "Ich komme aus Deutschland.",
+   "category": "Kennenlernen & Smalltalk",
+   "hint": null,
+   "lesson": "l-0108"
+  },
+  {
+   "id": "s-0053",
+   "nl": "Waar woon je?",
+   "de": "Wo wohnst du?",
+   "category": "Kennenlernen & Smalltalk",
+   "hint": null,
+   "lesson": "l-0108"
+  },
+  {
+   "id": "s-0054",
+   "nl": "Wat doe je voor werk?",
+   "de": "Was machst du beruflich?",
+   "category": "Kennenlernen & Smalltalk",
+   "hint": null,
+   "lesson": "l-0108"
+  },
+  {
+   "id": "s-0055",
+   "nl": "Hoe lang woon je hier al?",
+   "de": "Wie lange wohnst du schon hier?",
+   "category": "Kennenlernen & Smalltalk",
+   "hint": null,
+   "lesson": "l-0108"
+  },
+  {
+   "id": "s-0056",
+   "nl": "Lekker weertje, hè?",
+   "de": "Schönes Wetter, oder?",
+   "category": "Kennenlernen & Smalltalk",
+   "hint": "„hè“ am Satzende = „oder?“",
+   "lesson": "l-0109"
+  },
+  {
+   "id": "s-0057",
+   "nl": "Wat een rotweer!",
+   "de": "Was für ein Mistwetter!",
+   "category": "Kennenlernen & Smalltalk",
+   "hint": null,
+   "lesson": "l-0109"
+  },
+  {
+   "id": "s-0058",
+   "nl": "Het regent weer.",
+   "de": "Es regnet schon wieder.",
+   "category": "Kennenlernen & Smalltalk",
+   "hint": null,
+   "lesson": "l-0109"
+  },
+  {
+   "id": "s-0059",
+   "nl": "Heb je een leuk weekend gehad?",
+   "de": "Hattest du ein schönes Wochenende?",
+   "category": "Kennenlernen & Smalltalk",
+   "hint": null,
+   "lesson": "l-0109"
+  },
+  {
+   "id": "s-0060",
+   "nl": "Wat ga je dit weekend doen?",
+   "de": "Was machst du dieses Wochenende?",
+   "category": "Kennenlernen & Smalltalk",
+   "hint": null,
+   "lesson": "l-0109"
+  },
+  {
+   "id": "s-0061",
+   "nl": "Heb je kinderen?",
+   "de": "Hast du Kinder?",
+   "category": "Kennenlernen & Smalltalk",
+   "hint": null,
+   "lesson": "l-0109"
+  },
+  {
+   "id": "s-0062",
+   "nl": "Wat zijn je hobby's?",
+   "de": "Was sind deine Hobbys?",
+   "category": "Kennenlernen & Smalltalk",
+   "hint": null,
+   "lesson": "l-0109"
+  },
+  {
+   "id": "s-0063",
+   "nl": "Lekker!",
+   "de": "Lecker! / Super!",
+   "category": "Reaktionen",
+   "hint": "nicht nur für Essen: „lekker weer“, „lekker slapen“",
+   "lesson": "l-0110"
+  },
+  {
+   "id": "s-0064",
+   "nl": "Gezellig!",
+   "de": "Gemütlich! / Schön zusammen!",
+   "category": "Reaktionen",
+   "hint": "typisch niederländisch, kaum übersetzbar",
+   "lesson": "l-0110"
+  },
+  {
+   "id": "s-0065",
+   "nl": "Leuk!",
+   "de": "Schön! / Toll!",
+   "category": "Reaktionen",
+   "hint": null,
+   "lesson": "l-0110"
+  },
+  {
+   "id": "s-0066",
+   "nl": "Wat leuk!",
+   "de": "Wie schön!",
+   "category": "Reaktionen",
+   "hint": null,
+   "lesson": "l-0110"
+  },
+  {
+   "id": "s-0067",
+   "nl": "Echt waar?",
+   "de": "Echt? / Wirklich?",
+   "category": "Reaktionen",
+   "hint": null,
+   "lesson": "l-0110"
+  },
+  {
+   "id": "s-0068",
+   "nl": "Klopt.",
+   "de": "Stimmt.",
+   "category": "Reaktionen",
+   "hint": null,
+   "lesson": "l-0110"
+  },
+  {
+   "id": "s-0069",
+   "nl": "Precies!",
+   "de": "Genau!",
+   "category": "Reaktionen",
+   "hint": null,
+   "lesson": "l-0110"
+  },
+  {
+   "id": "s-0070",
+   "nl": "Inderdaad.",
+   "de": "In der Tat. / Genau.",
+   "category": "Reaktionen",
+   "hint": null,
+   "lesson": "l-0110"
+  },
+  {
+   "id": "s-0071",
+   "nl": "Dat is waar.",
+   "de": "Das stimmt.",
+   "category": "Reaktionen",
+   "hint": null,
+   "lesson": "l-0111"
+  },
+  {
+   "id": "s-0072",
+   "nl": "Nou …",
+   "de": "Na ja … / Also …",
+   "category": "Reaktionen",
+   "hint": "sehr häufiges Füllwort",
+   "lesson": "l-0111"
+  },
+  {
+   "id": "s-0073",
+   "nl": "Tja.",
+   "de": "Tja.",
+   "category": "Reaktionen",
+   "hint": null,
+   "lesson": "l-0111"
+  },
+  {
+   "id": "s-0074",
+   "nl": "Jammer!",
+   "de": "Schade!",
+   "category": "Reaktionen",
+   "hint": null,
+   "lesson": "l-0111"
+  },
+  {
+   "id": "s-0075",
+   "nl": "Wat erg!",
+   "de": "Wie schlimm!",
+   "category": "Reaktionen",
+   "hint": null,
+   "lesson": "l-0111"
+  },
+  {
+   "id": "s-0076",
+   "nl": "Dat meen je niet!",
+   "de": "Das ist nicht dein Ernst!",
+   "category": "Reaktionen",
+   "hint": null,
+   "lesson": "l-0111"
+  },
+  {
+   "id": "s-0077",
+   "nl": "Zeker weten!",
+   "de": "Na klar! / Ganz sicher!",
+   "category": "Reaktionen",
+   "hint": null,
+   "lesson": "l-0111"
+  },
+  {
+   "id": "s-0078",
+   "nl": "Goed zo!",
+   "de": "Gut so! / Gut gemacht!",
+   "category": "Reaktionen",
+   "hint": null,
+   "lesson": "l-0111"
+  },
+  {
+   "id": "s-0079",
+   "nl": "Lekker bezig!",
+   "de": "Gut machst du das!",
+   "category": "Reaktionen",
+   "hint": "oft auch ironisch",
+   "lesson": "l-0112"
+  },
+  {
+   "id": "s-0080",
+   "nl": "Dat valt mee.",
+   "de": "Das ist halb so schlimm.",
+   "category": "Reaktionen",
+   "hint": "besser als erwartet",
+   "lesson": "l-0112"
+  },
+  {
+   "id": "s-0081",
+   "nl": "Dat valt tegen.",
+   "de": "Das ist enttäuschend.",
+   "category": "Reaktionen",
+   "hint": "schlechter als erwartet",
+   "lesson": "l-0112"
+  },
+  {
+   "id": "s-0082",
+   "nl": "Dat maakt niet uit.",
+   "de": "Das ist egal.",
+   "category": "Reaktionen",
+   "hint": null,
+   "lesson": "l-0112"
+  },
+  {
+   "id": "s-0083",
+   "nl": "Het hangt ervan af.",
+   "de": "Es kommt darauf an.",
+   "category": "Reaktionen",
+   "hint": null,
+   "lesson": "l-0112"
+  },
+  {
+   "id": "s-0084",
+   "nl": "Ach, laat maar.",
+   "de": "Ach, vergiss es.",
+   "category": "Reaktionen",
+   "hint": null,
+   "lesson": "l-0112"
+  },
+  {
+   "id": "s-0085",
+   "nl": "Komt goed!",
+   "de": "Wird schon! / Geht klar!",
+   "category": "Reaktionen",
+   "hint": null,
+   "lesson": "l-0112"
+  },
+  {
+   "id": "s-0086",
+   "nl": "Dat zit wel snor.",
+   "de": "Das passt schon.",
+   "category": "Reaktionen",
+   "hint": "umgangssprachlich",
+   "lesson": "l-0112"
+  },
+  {
+   "id": "s-0087",
+   "nl": "Wat vind jij?",
+   "de": "Was meinst du?",
+   "category": "Meinung",
+   "hint": null,
+   "lesson": "l-0113"
+  },
+  {
+   "id": "s-0088",
+   "nl": "Ik vind het leuk.",
+   "de": "Es gefällt mir.",
+   "category": "Meinung",
+   "hint": null,
+   "lesson": "l-0113"
+  },
+  {
+   "id": "s-0089",
+   "nl": "Volgens mij …",
+   "de": "Ich glaube … / Meiner Meinung nach …",
+   "category": "Meinung",
+   "hint": null,
+   "lesson": "l-0113"
+  },
+  {
+   "id": "s-0090",
+   "nl": "Ik ben het met je eens.",
+   "de": "Ich bin deiner Meinung.",
+   "category": "Meinung",
+   "hint": null,
+   "lesson": "l-0113"
+  },
+  {
+   "id": "s-0091",
+   "nl": "Ik ben het er niet mee eens.",
+   "de": "Da bin ich anderer Meinung.",
+   "category": "Meinung",
+   "hint": null,
+   "lesson": "l-0113"
+  },
+  {
+   "id": "s-0092",
+   "nl": "Daar gaat het niet om.",
+   "de": "Darum geht es nicht.",
+   "category": "Meinung",
+   "hint": null,
+   "lesson": "l-0113"
+  },
+  {
+   "id": "s-0093",
+   "nl": "Gefeliciteerd!",
+   "de": "Herzlichen Glückwunsch!",
+   "category": "Wünsche & Anlässe",
+   "hint": "man gratuliert auch der Familie: „Gefeliciteerd met je zoon!“",
+   "lesson": "l-0114"
+  },
+  {
+   "id": "s-0094",
+   "nl": "Eet smakelijk!",
+   "de": "Guten Appetit!",
+   "category": "Wünsche & Anlässe",
+   "hint": null,
+   "lesson": "l-0114"
+  },
+  {
+   "id": "s-0095",
+   "nl": "Proost!",
+   "de": "Prost!",
+   "category": "Wünsche & Anlässe",
+   "hint": null,
+   "lesson": "l-0114"
+  },
+  {
+   "id": "s-0096",
+   "nl": "Succes!",
+   "de": "Viel Erfolg!",
+   "category": "Wünsche & Anlässe",
+   "hint": null,
+   "lesson": "l-0114"
+  },
+  {
+   "id": "s-0097",
+   "nl": "Beterschap!",
+   "de": "Gute Besserung!",
+   "category": "Wünsche & Anlässe",
+   "hint": null,
+   "lesson": "l-0114"
+  },
+  {
+   "id": "s-0098",
+   "nl": "Sterkte!",
+   "de": "Viel Kraft!",
+   "category": "Wünsche & Anlässe",
+   "hint": "bei Trauer oder schweren Zeiten",
+   "lesson": "l-0114"
+  },
+  {
+   "id": "s-0099",
+   "nl": "Veel plezier!",
+   "de": "Viel Spaß!",
+   "category": "Wünsche & Anlässe",
+   "hint": null,
+   "lesson": "l-0114"
+  },
+  {
+   "id": "s-0100",
+   "nl": "Goede reis!",
+   "de": "Gute Reise!",
+   "category": "Wünsche & Anlässe",
+   "hint": null,
+   "lesson": "l-0114"
+  },
+  {
+   "id": "s-0101",
+   "nl": "Fijne feestdagen!",
+   "de": "Schöne Feiertage!",
+   "category": "Wünsche & Anlässe",
+   "hint": null,
+   "lesson": "l-0114"
+  },
+  {
+   "id": "s-0102",
+   "nl": "Gelukkig nieuwjaar!",
+   "de": "Frohes neues Jahr!",
+   "category": "Wünsche & Anlässe",
+   "hint": null,
+   "lesson": "l-0114"
+  },
+  {
+   "id": "s-0103",
+   "nl": "Mag ik een koffie, alstublieft?",
+   "de": "Einen Kaffee, bitte.",
+   "category": "Café & Restaurant",
+   "hint": null,
+   "lesson": "l-0115"
+  },
+  {
+   "id": "s-0104",
+   "nl": "Ik wil graag …",
+   "de": "Ich hätte gern …",
+   "category": "Café & Restaurant",
+   "hint": null,
+   "lesson": "l-0115"
+  },
+  {
+   "id": "s-0105",
+   "nl": "Een tafel voor twee, graag.",
+   "de": "Einen Tisch für zwei, bitte.",
+   "category": "Café & Restaurant",
+   "hint": null,
+   "lesson": "l-0115"
+  },
+  {
+   "id": "s-0106",
+   "nl": "Zeg het maar.",
+   "de": "Was darf es sein?",
+   "category": "Café & Restaurant",
+   "hint": "hört man ständig von Bedienungen und Verkäufern",
+   "lesson": "l-0115"
+  },
+  {
+   "id": "s-0107",
+   "nl": "Wat kan ik voor je doen?",
+   "de": "Was kann ich für dich tun?",
+   "category": "Café & Restaurant",
+   "hint": null,
+   "lesson": "l-0115"
+  },
+  {
+   "id": "s-0108",
+   "nl": "Hier opeten of meenemen?",
+   "de": "Zum Hieressen oder zum Mitnehmen?",
+   "category": "Café & Restaurant",
+   "hint": null,
+   "lesson": "l-0115"
+  },
+  {
+   "id": "s-0109",
+   "nl": "Met melk en suiker?",
+   "de": "Mit Milch und Zucker?",
+   "category": "Café & Restaurant",
+   "hint": null,
+   "lesson": "l-0116"
+  },
+  {
+   "id": "s-0110",
+   "nl": "Mag ik de rekening?",
+   "de": "Die Rechnung, bitte.",
+   "category": "Café & Restaurant",
+   "hint": null,
+   "lesson": "l-0116"
+  },
+  {
+   "id": "s-0111",
+   "nl": "Kan ik pinnen?",
+   "de": "Kann ich mit Karte zahlen?",
+   "category": "Café & Restaurant",
+   "hint": "pinnen = mit Bankkarte zahlen",
+   "lesson": "l-0116"
+  },
+  {
+   "id": "s-0112",
+   "nl": "Laat maar zitten.",
+   "de": "Stimmt so.",
+   "category": "Café & Restaurant",
+   "hint": "beim Trinkgeld",
+   "lesson": "l-0116"
+  },
+  {
+   "id": "s-0113",
+   "nl": "Waar is het toilet?",
+   "de": "Wo ist die Toilette?",
+   "category": "Café & Restaurant",
+   "hint": null,
+   "lesson": "l-0116"
+  },
+  {
+   "id": "s-0114",
+   "nl": "Het was heerlijk!",
+   "de": "Es war köstlich!",
+   "category": "Café & Restaurant",
+   "hint": null,
+   "lesson": "l-0116"
+  },
+  {
+   "id": "s-0115",
+   "nl": "Wat kost dit?",
+   "de": "Was kostet das?",
+   "category": "Einkaufen",
+   "hint": null,
+   "lesson": "l-0117"
+  },
+  {
+   "id": "s-0116",
+   "nl": "Ik kijk even rond.",
+   "de": "Ich schaue mich nur um.",
+   "category": "Einkaufen",
+   "hint": null,
+   "lesson": "l-0117"
+  },
+  {
+   "id": "s-0117",
+   "nl": "Heeft u dit ook in een andere maat?",
+   "de": "Haben Sie das auch in einer anderen Größe?",
+   "category": "Einkaufen",
+   "hint": null,
+   "lesson": "l-0117"
+  },
+  {
+   "id": "s-0118",
+   "nl": "Anders nog iets?",
+   "de": "Sonst noch etwas?",
+   "category": "Einkaufen",
+   "hint": null,
+   "lesson": "l-0117"
+  },
+  {
+   "id": "s-0119",
+   "nl": "Nee, dat was het.",
+   "de": "Nein, das war's.",
+   "category": "Einkaufen",
+   "hint": null,
+   "lesson": "l-0117"
+  },
+  {
+   "id": "s-0120",
+   "nl": "Wilt u een tasje?",
+   "de": "Möchten Sie eine Tüte?",
+   "category": "Einkaufen",
+   "hint": null,
+   "lesson": "l-0117"
+  },
+  {
+   "id": "s-0121",
+   "nl": "Wilt u het bonnetje?",
+   "de": "Möchten Sie den Kassenbon?",
+   "category": "Einkaufen",
+   "hint": null,
+   "lesson": "l-0117"
+  },
+  {
+   "id": "s-0122",
+   "nl": "Heeft u een bonuskaart?",
+   "de": "Haben Sie eine Bonuskarte?",
+   "category": "Einkaufen",
+   "hint": "z. B. bei Albert Heijn",
+   "lesson": "l-0117"
+  },
+  {
+   "id": "s-0123",
+   "nl": "Het is in de aanbieding.",
+   "de": "Es ist im Angebot.",
+   "category": "Einkaufen",
+   "hint": null,
+   "lesson": "l-0117"
+  },
+  {
+   "id": "s-0124",
+   "nl": "Hoe kom ik bij het station?",
+   "de": "Wie komme ich zum Bahnhof?",
+   "category": "Unterwegs",
+   "hint": null,
+   "lesson": "l-0118"
+  },
+  {
+   "id": "s-0125",
+   "nl": "Rechtdoor, dan linksaf.",
+   "de": "Geradeaus, dann links abbiegen.",
+   "category": "Unterwegs",
+   "hint": null,
+   "lesson": "l-0118"
+  },
+  {
+   "id": "s-0126",
+   "nl": "Is het ver?",
+   "de": "Ist es weit?",
+   "category": "Unterwegs",
+   "hint": null,
+   "lesson": "l-0118"
+  },
+  {
+   "id": "s-0127",
+   "nl": "Het is vlakbij.",
+   "de": "Es ist ganz in der Nähe.",
+   "category": "Unterwegs",
+   "hint": null,
+   "lesson": "l-0118"
+  },
+  {
+   "id": "s-0128",
+   "nl": "Hoe laat vertrekt de trein?",
+   "de": "Wann fährt der Zug ab?",
+   "category": "Unterwegs",
+   "hint": null,
+   "lesson": "l-0118"
+  },
+  {
+   "id": "s-0129",
+   "nl": "Is deze plek vrij?",
+   "de": "Ist dieser Platz frei?",
+   "category": "Unterwegs",
+   "hint": null,
+   "lesson": "l-0118"
+  },
+  {
+   "id": "s-0130",
+   "nl": "Ik moet hier uitstappen.",
+   "de": "Ich muss hier aussteigen.",
+   "category": "Unterwegs",
+   "hint": null,
+   "lesson": "l-0118"
+  },
+  {
+   "id": "s-0131",
+   "nl": "Ik sta in de file.",
+   "de": "Ich stehe im Stau.",
+   "category": "Unterwegs",
+   "hint": null,
+   "lesson": "l-0118"
+  },
+  {
+   "id": "s-0132",
+   "nl": "Kijk uit! / Pas op!",
+   "de": "Pass auf!",
+   "category": "Unterwegs",
+   "hint": null,
+   "lesson": "l-0118"
+  },
+  {
+   "id": "s-0133",
+   "nl": "Heb je zin om …?",
+   "de": "Hast du Lust, … zu …?",
+   "category": "Verabreden & Zeit",
+   "hint": null,
+   "lesson": "l-0119"
+  },
+  {
+   "id": "s-0134",
+   "nl": "Zullen we koffie drinken?",
+   "de": "Sollen wir einen Kaffee trinken gehen?",
+   "category": "Verabreden & Zeit",
+   "hint": null,
+   "lesson": "l-0119"
+  },
+  {
+   "id": "s-0135",
+   "nl": "Even een bakkie doen?",
+   "de": "Kurz einen Kaffee trinken?",
+   "category": "Verabreden & Zeit",
+   "hint": "bakkie = umgangssprachlich für Kaffee",
+   "lesson": "l-0119"
+  },
+  {
+   "id": "s-0136",
+   "nl": "Hoe laat?",
+   "de": "Um wie viel Uhr?",
+   "category": "Verabreden & Zeit",
+   "hint": null,
+   "lesson": "l-0119"
+  },
+  {
+   "id": "s-0137",
+   "nl": "Hoe laat is het?",
+   "de": "Wie spät ist es?",
+   "category": "Verabreden & Zeit",
+   "hint": null,
+   "lesson": "l-0119"
+  },
+  {
+   "id": "s-0139",
+   "nl": "Komt het je uit?",
+   "de": "Passt es dir?",
+   "category": "Verabreden & Zeit",
+   "hint": null,
+   "lesson": "l-0119"
+  },
+  {
+   "id": "s-0140",
+   "nl": "Dat komt goed uit.",
+   "de": "Das passt gut.",
+   "category": "Verabreden & Zeit",
+   "hint": null,
+   "lesson": "l-0119"
+  },
+  {
+   "id": "s-0141",
+   "nl": "Afgesproken!",
+   "de": "Abgemacht!",
+   "category": "Verabreden & Zeit",
+   "hint": null,
+   "lesson": "l-0119"
+  },
+  {
+   "id": "s-0142",
+   "nl": "Ik moet even kijken.",
+   "de": "Ich muss mal schauen.",
+   "category": "Verabreden & Zeit",
+   "hint": null,
+   "lesson": "l-0119"
+  },
+  {
+   "id": "s-0143",
+   "nl": "Ik heb het druk.",
+   "de": "Ich habe viel zu tun.",
+   "category": "Verabreden & Zeit",
+   "hint": null,
+   "lesson": "l-0120"
+  },
+  {
+   "id": "s-0144",
+   "nl": "Ik heb geen zin.",
+   "de": "Ich habe keine Lust.",
+   "category": "Verabreden & Zeit",
+   "hint": null,
+   "lesson": "l-0120"
+  },
+  {
+   "id": "s-0145",
+   "nl": "Ik ben er zo.",
+   "de": "Ich bin gleich da.",
+   "category": "Verabreden & Zeit",
+   "hint": null,
+   "lesson": "l-0120"
+  },
+  {
+   "id": "s-0146",
+   "nl": "Sorry, ik ben te laat.",
+   "de": "Entschuldigung, ich bin zu spät.",
+   "category": "Verabreden & Zeit",
+   "hint": null,
+   "lesson": "l-0120"
+  },
+  {
+   "id": "s-0147",
+   "nl": "Ik bel je straks.",
+   "de": "Ich ruf dich später an.",
+   "category": "Verabreden & Zeit",
+   "hint": null,
+   "lesson": "l-0120"
+  },
+  {
+   "id": "s-0148",
+   "nl": "Stuur me een appje.",
+   "de": "Schick mir eine WhatsApp.",
+   "category": "Verabreden & Zeit",
+   "hint": "appen = per WhatsApp schreiben",
+   "lesson": "l-0120"
+  },
+  {
+   "id": "s-0149",
+   "nl": "Rustig aan.",
+   "de": "Immer mit der Ruhe.",
+   "category": "Verabreden & Zeit",
+   "hint": null,
+   "lesson": "l-0120"
+  },
+  {
+   "id": "s-0150",
+   "nl": "Geen haast.",
+   "de": "Keine Eile.",
+   "category": "Verabreden & Zeit",
+   "hint": null,
+   "lesson": "l-0120"
+  },
+  {
+   "id": "s-0151",
+   "nl": "Wat is er?",
+   "de": "Was ist los?",
+   "category": "Alltag",
+   "hint": null,
+   "lesson": "l-0121"
+  },
+  {
+   "id": "s-0152",
+   "nl": "Wat is er aan de hand?",
+   "de": "Was ist denn los?",
+   "category": "Alltag",
+   "hint": null,
+   "lesson": "l-0121"
+  },
+  {
+   "id": "s-0153",
+   "nl": "Niks aan de hand.",
+   "de": "Alles in Ordnung.",
+   "category": "Alltag",
+   "hint": null,
+   "lesson": "l-0121"
+  },
+  {
+   "id": "s-0154",
+   "nl": "Ik ben moe.",
+   "de": "Ich bin müde.",
+   "category": "Alltag",
+   "hint": null,
+   "lesson": "l-0121"
+  },
+  {
+   "id": "s-0155",
+   "nl": "Ik heb honger.",
+   "de": "Ich habe Hunger.",
+   "category": "Alltag",
+   "hint": null,
+   "lesson": "l-0121"
+  },
+  {
+   "id": "s-0156",
+   "nl": "Ik heb dorst.",
+   "de": "Ich habe Durst.",
+   "category": "Alltag",
+   "hint": null,
+   "lesson": "l-0121"
+  },
+  {
+   "id": "s-0157",
+   "nl": "Ik voel me niet lekker.",
+   "de": "Ich fühle mich nicht gut.",
+   "category": "Alltag",
+   "hint": null,
+   "lesson": "l-0121"
+  },
+  {
+   "id": "s-0158",
+   "nl": "Doe maar.",
+   "de": "Mach ruhig. / Gern.",
+   "category": "Alltag",
+   "hint": null,
+   "lesson": "l-0121"
+  },
+  {
+   "id": "s-0159",
+   "nl": "Kom op!",
+   "de": "Komm schon!",
+   "category": "Alltag",
+   "hint": null,
+   "lesson": "l-0121"
+  },
+  {
+   "id": "s-0160",
+   "nl": "Ik ben er klaar mee.",
+   "de": "Ich habe die Nase voll.",
+   "category": "Alltag",
+   "hint": null,
+   "lesson": "l-0121"
+  },
+  {
+   "id": "s-0161",
+   "nl": "Doe normaal!",
+   "de": "Benimm dich normal! / Übertreib nicht!",
+   "category": "Redewendungen",
+   "hint": "sehr typisch",
+   "lesson": "l-0122"
+  },
+  {
+   "id": "s-0162",
+   "nl": "Doe maar gewoon, dan doe je al gek genoeg.",
+   "de": "Sei einfach normal, das ist schon verrückt genug.",
+   "category": "Redewendungen",
+   "hint": "gilt als Lebensmotto der Niederländer",
+   "lesson": "l-0122"
+  },
+  {
+   "id": "s-0163",
+   "nl": "Het regent pijpenstelen.",
+   "de": "Es regnet in Strömen.",
+   "category": "Redewendungen",
+   "hint": "wörtlich: es regnet Pfeifenstiele",
+   "lesson": "l-0122"
+  },
+  {
+   "id": "s-0164",
+   "nl": "Met de deur in huis vallen.",
+   "de": "Mit der Tür ins Haus fallen.",
+   "category": "Redewendungen",
+   "hint": null,
+   "lesson": "l-0122"
+  },
+  {
+   "id": "s-0165",
+   "nl": "Nu komt de aap uit de mouw.",
+   "de": "Jetzt kommt die Wahrheit ans Licht.",
+   "category": "Redewendungen",
+   "hint": "wörtlich: der Affe kommt aus dem Ärmel",
+   "lesson": "l-0122"
+  },
+  {
+   "id": "s-0166",
+   "nl": "Het kwartje is gevallen.",
+   "de": "Der Groschen ist gefallen.",
+   "category": "Redewendungen",
+   "hint": null,
+   "lesson": "l-0122"
+  },
+  {
+   "id": "s-0167",
+   "nl": "Dat is een makkie.",
+   "de": "Das ist ein Kinderspiel.",
+   "category": "Redewendungen",
+   "hint": null,
+   "lesson": "l-0123"
+  },
+  {
+   "id": "s-0168",
+   "nl": "Over koetjes en kalfjes praten.",
+   "de": "Über dies und das plaudern.",
+   "category": "Redewendungen",
+   "hint": "wörtlich: über Kühchen und Kälbchen",
+   "lesson": "l-0123"
+  },
+  {
+   "id": "s-0169",
+   "nl": "De kat uit de boom kijken.",
+   "de": "Erst mal abwarten.",
+   "category": "Redewendungen",
+   "hint": null,
+   "lesson": "l-0123"
+  },
+  {
+   "id": "s-0170",
+   "nl": "Twee vliegen in één klap slaan.",
+   "de": "Zwei Fliegen mit einer Klappe schlagen.",
+   "category": "Redewendungen",
+   "hint": null,
+   "lesson": "l-0123"
+  },
+  {
+   "id": "s-0171",
+   "nl": "Ik zit met de handen in het haar.",
+   "de": "Ich weiß nicht mehr weiter.",
+   "category": "Redewendungen",
+   "hint": null,
+   "lesson": "l-0123"
+  },
+  {
+   "id": "s-0172",
+   "nl": "Er is geen kip te zien.",
+   "de": "Keine Menschenseele ist zu sehen.",
+   "category": "Redewendungen",
+   "hint": "wörtlich: kein Huhn",
+   "lesson": "l-0123"
+  },
+  {
+   "id": "s-0173",
+   "nl": "Iemand de oren van het hoofd praten.",
+   "de": "Jemandem ein Ohr abkauen.",
+   "category": "Redewendungen",
+   "hint": null,
+   "lesson": "l-0124"
+  },
+  {
+   "id": "s-0174",
+   "nl": "Een appeltje te schillen hebben.",
+   "de": "Ein Hühnchen zu rupfen haben.",
+   "category": "Redewendungen",
+   "hint": null,
+   "lesson": "l-0124"
+  },
+  {
+   "id": "s-0175",
+   "nl": "Daar ben ik niet kapot van.",
+   "de": "Das haut mich nicht vom Hocker.",
+   "category": "Redewendungen",
+   "hint": null,
+   "lesson": "l-0124"
+  },
+  {
+   "id": "s-0176",
+   "nl": "Zo gezond als een vis.",
+   "de": "Kerngesund.",
+   "category": "Redewendungen",
+   "hint": "wörtlich: gesund wie ein Fisch",
+   "lesson": "l-0124"
+  },
+  {
+   "id": "s-0177",
+   "nl": "Hij heeft een gat in zijn hand.",
+   "de": "Bei ihm sitzt das Geld locker.",
+   "category": "Redewendungen",
+   "hint": null,
+   "lesson": "l-0124"
+  },
+  {
+   "id": "s-0178",
+   "nl": "Elk nadeel heb z'n voordeel.",
+   "de": "Jeder Nachteil hat seinen Vorteil.",
+   "category": "Redewendungen",
+   "hint": "Zitat von Johan Cruijff, „heb“ absichtlich falsch",
+   "lesson": "l-0124"
+  },
+  {
+   "id": "s-0179",
+   "nl": "Oost west, thuis best.",
+   "de": "Daheim ist's am schönsten.",
+   "category": "Sprichwörter",
+   "hint": null,
+   "lesson": "l-0125"
+  },
+  {
+   "id": "s-0180",
+   "nl": "Beter laat dan nooit.",
+   "de": "Besser spät als nie.",
+   "category": "Sprichwörter",
+   "hint": null,
+   "lesson": "l-0125"
+  },
+  {
+   "id": "s-0181",
+   "nl": "Wie niet waagt, wie niet wint.",
+   "de": "Wer nicht wagt, der nicht gewinnt.",
+   "category": "Sprichwörter",
+   "hint": null,
+   "lesson": "l-0125"
+  },
+  {
+   "id": "s-0182",
+   "nl": "Oefening baart kunst.",
+   "de": "Übung macht den Meister.",
+   "category": "Sprichwörter",
+   "hint": null,
+   "lesson": "l-0125"
+  },
+  {
+   "id": "s-0183",
+   "nl": "Alle begin is moeilijk.",
+   "de": "Aller Anfang ist schwer.",
+   "category": "Sprichwörter",
+   "hint": null,
+   "lesson": "l-0125"
+  },
+  {
+   "id": "s-0184",
+   "nl": "Haastige spoed is zelden goed.",
+   "de": "Eile mit Weile.",
+   "category": "Sprichwörter",
+   "hint": null,
+   "lesson": "l-0125"
+  },
+  {
+   "id": "s-0185",
+   "nl": "De appel valt niet ver van de boom.",
+   "de": "Der Apfel fällt nicht weit vom Stamm.",
+   "category": "Sprichwörter",
+   "hint": null,
+   "lesson": "l-0125"
+  },
+  {
+   "id": "s-0186",
+   "nl": "Wie het laatst lacht, lacht het best.",
+   "de": "Wer zuletzt lacht, lacht am besten.",
+   "category": "Sprichwörter",
+   "hint": null,
+   "lesson": "l-0125"
+  },
+  {
+   "id": "s-0187",
+   "nl": "Geen nieuws, goed nieuws.",
+   "de": "Keine Nachrichten sind gute Nachrichten.",
+   "category": "Sprichwörter",
+   "hint": null,
+   "lesson": "l-0126"
+  },
+  {
+   "id": "s-0188",
+   "nl": "Van uitstel komt afstel.",
+   "de": "Aufgeschoben ist aufgehoben.",
+   "category": "Sprichwörter",
+   "hint": null,
+   "lesson": "l-0126"
+  },
+  {
+   "id": "s-0189",
+   "nl": "Een ongeluk komt zelden alleen.",
+   "de": "Ein Unglück kommt selten allein.",
+   "category": "Sprichwörter",
+   "hint": null,
+   "lesson": "l-0126"
+  },
+  {
+   "id": "s-0190",
+   "nl": "Beter een goede buur dan een verre vriend.",
+   "de": "Ein guter Nachbar ist besser als ein ferner Freund.",
+   "category": "Sprichwörter",
+   "hint": null,
+   "lesson": "l-0126"
+  },
+  {
+   "id": "s-0191",
+   "nl": "Als de kat van huis is, dansen de muizen.",
+   "de": "Ist die Katze aus dem Haus, tanzen die Mäuse.",
+   "category": "Sprichwörter",
+   "hint": null,
+   "lesson": "l-0126"
+  },
+  {
+   "id": "s-0192",
+   "nl": "Morgenstond heeft goud in de mond.",
+   "de": "Morgenstund hat Gold im Mund.",
+   "category": "Sprichwörter",
+   "hint": null,
+   "lesson": "l-0126"
+  },
+  {
+   "id": "s-0193",
+   "nl": "Wie a zegt, moet ook b zeggen.",
+   "de": "Wer A sagt, muss auch B sagen.",
+   "category": "Sprichwörter",
+   "hint": null,
+   "lesson": "l-0126"
+  },
+  {
+   "id": "s-0194",
+   "nl": "Gedane zaken nemen geen keer.",
+   "de": "Geschehen ist geschehen.",
+   "category": "Sprichwörter",
+   "hint": null,
+   "lesson": "l-0126"
+  },
+  {
+   "id": "s-0195",
+   "nl": "Wat niet weet, wat niet deert.",
+   "de": "Was ich nicht weiß, macht mich nicht heiß.",
+   "category": "Sprichwörter",
+   "hint": null,
+   "lesson": "l-0127"
+  },
+  {
+   "id": "s-0196",
+   "nl": "Hoge bomen vangen veel wind.",
+   "de": "Wer hoch steht, bekommt viel Gegenwind.",
+   "category": "Sprichwörter",
+   "hint": null,
+   "lesson": "l-0127"
+  },
+  {
+   "id": "s-0197",
+   "nl": "Wie het kleine niet eert, is het grote niet weerd.",
+   "de": "Wer den Pfennig nicht ehrt, ist des Talers nicht wert.",
+   "category": "Sprichwörter",
+   "hint": null,
+   "lesson": "l-0127"
+  },
+  {
+   "id": "s-0198",
+   "nl": "Boontje komt om zijn loontje.",
+   "de": "Kleine Sünden bestraft der liebe Gott sofort.",
+   "category": "Sprichwörter",
+   "hint": null,
+   "lesson": "l-0127"
+  },
+  {
+   "id": "s-0199",
+   "nl": "Zachte heelmeesters maken stinkende wonden.",
+   "de": "Zu viel Nachsicht macht alles schlimmer.",
+   "category": "Sprichwörter",
+   "hint": "wörtlich: sanfte Heiler machen stinkende Wunden",
+   "lesson": "l-0127"
+  },
+  {
+   "id": "s-0200",
+   "nl": "Tijd is geld.",
+   "de": "Zeit ist Geld.",
+   "category": "Sprichwörter",
+   "hint": null,
+   "lesson": "l-0127"
+  }
+ ]
+}
