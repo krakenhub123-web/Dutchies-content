@@ -1,0 +1,891 @@
+{
+ "id": "verben-praeposition",
+ "title": "Verben mit Präposition",
+ "description": "Häufige niederländische Verben mit fester Präposition (wachten op, denken aan, …)",
+ "lessons": [
+  {
+   "id": "l-0128",
+   "title": "Verben mit Präposition 1",
+   "type": "words",
+   "order": 1010,
+   "chapter": "Verben mit Präposition"
+  },
+  {
+   "id": "l-0129",
+   "title": "Verben mit Präposition 2",
+   "type": "words",
+   "order": 1020,
+   "chapter": "Verben mit Präposition"
+  },
+  {
+   "id": "l-0130",
+   "title": "Verben mit Präposition 3",
+   "type": "words",
+   "order": 1030,
+   "chapter": "Verben mit Präposition"
+  },
+  {
+   "id": "l-0131",
+   "title": "Verben mit Präposition 4",
+   "type": "words",
+   "order": 1040,
+   "chapter": "Verben mit Präposition"
+  },
+  {
+   "id": "l-0132",
+   "title": "Verben mit Präposition 5",
+   "type": "words",
+   "order": 1050,
+   "chapter": "Verben mit Präposition"
+  },
+  {
+   "id": "l-0133",
+   "title": "Verben mit Präposition 6",
+   "type": "words",
+   "order": 1060,
+   "chapter": "Verben mit Präposition"
+  }
+ ],
+ "words": [
+  {
+   "id": "w-6001",
+   "nl": "wachten op",
+   "de": "warten auf",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Ik wacht op de bus.",
+     "de": "Ich warte auf den Bus."
+    }
+   ],
+   "lesson": "l-0128"
+  },
+  {
+   "id": "w-6002",
+   "nl": "denken aan",
+   "de": "denken an",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Ik denk vaak aan mijn oma.",
+     "de": "Ich denke oft an meine Oma."
+    }
+   ],
+   "lesson": "l-0128"
+  },
+  {
+   "id": "w-6003",
+   "nl": "houden van",
+   "de": "lieben, mögen",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Ik houd van muziek.",
+     "de": "Ich liebe Musik."
+    }
+   ],
+   "lesson": "l-0128"
+  },
+  {
+   "id": "w-6004",
+   "nl": "kijken naar",
+   "de": "ansehen, schauen auf",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "We kijken naar een film.",
+     "de": "Wir sehen uns einen Film an."
+    }
+   ],
+   "lesson": "l-0128"
+  },
+  {
+   "id": "w-6005",
+   "nl": "luisteren naar",
+   "de": "hören auf, zuhören",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Luister naar je moeder!",
+     "de": "Hör auf deine Mutter!"
+    }
+   ],
+   "lesson": "l-0128"
+  },
+  {
+   "id": "w-6006",
+   "nl": "praten over",
+   "de": "reden über",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "We praten over het weekend.",
+     "de": "Wir reden über das Wochenende."
+    }
+   ],
+   "lesson": "l-0128"
+  },
+  {
+   "id": "w-6007",
+   "nl": "zorgen voor",
+   "de": "sorgen für",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Wie zorgt er voor de kinderen?",
+     "de": "Wer sorgt für die Kinder?"
+    }
+   ],
+   "lesson": "l-0128"
+  },
+  {
+   "id": "w-6008",
+   "nl": "helpen met",
+   "de": "helfen bei",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Kun je me helpen met mijn huiswerk?",
+     "de": "Kannst du mir bei meinen Hausaufgaben helfen?"
+    }
+   ],
+   "lesson": "l-0128"
+  },
+  {
+   "id": "w-6009",
+   "nl": "beginnen met",
+   "de": "anfangen mit",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "We beginnen met de les.",
+     "de": "Wir fangen mit dem Unterricht an."
+    }
+   ],
+   "lesson": "l-0128"
+  },
+  {
+   "id": "w-6010",
+   "nl": "stoppen met",
+   "de": "aufhören mit",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Hij is gestopt met roken.",
+     "de": "Er hat mit dem Rauchen aufgehört."
+    }
+   ],
+   "lesson": "l-0128"
+  },
+  {
+   "id": "w-6011",
+   "nl": "vragen om",
+   "de": "bitten um",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Ze vraagt om hulp.",
+     "de": "Sie bittet um Hilfe."
+    }
+   ],
+   "lesson": "l-0129"
+  },
+  {
+   "id": "w-6012",
+   "nl": "vragen naar",
+   "de": "fragen nach",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Hij vroeg naar de weg.",
+     "de": "Er fragte nach dem Weg."
+    }
+   ],
+   "lesson": "l-0129"
+  },
+  {
+   "id": "w-6013",
+   "nl": "zoeken naar",
+   "de": "suchen nach",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "De politie zoekt naar de dader.",
+     "de": "Die Polizei sucht nach dem Täter."
+    }
+   ],
+   "lesson": "l-0129"
+  },
+  {
+   "id": "w-6014",
+   "nl": "gaan over",
+   "de": "handeln von",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Het boek gaat over de oorlog.",
+     "de": "Das Buch handelt vom Krieg."
+    }
+   ],
+   "lesson": "l-0129"
+  },
+  {
+   "id": "w-6015",
+   "nl": "spreken over",
+   "de": "sprechen über",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Hij spreekt graag over politiek.",
+     "de": "Er spricht gern über Politik."
+    }
+   ],
+   "lesson": "l-0129"
+  },
+  {
+   "id": "w-6016",
+   "nl": "rekenen op",
+   "de": "sich verlassen auf, rechnen mit",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Je kunt op mij rekenen.",
+     "de": "Du kannst dich auf mich verlassen."
+    }
+   ],
+   "lesson": "l-0129"
+  },
+  {
+   "id": "w-6017",
+   "nl": "lijken op",
+   "de": "ähneln, aussehen wie",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Hij lijkt op zijn vader.",
+     "de": "Er sieht aus wie sein Vater."
+    }
+   ],
+   "lesson": "l-0129"
+  },
+  {
+   "id": "w-6018",
+   "nl": "letten op",
+   "de": "achten auf",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Let goed op het verkeer!",
+     "de": "Achte gut auf den Verkehr!"
+    }
+   ],
+   "lesson": "l-0129"
+  },
+  {
+   "id": "w-6019",
+   "nl": "passen op",
+   "de": "aufpassen auf",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Wil jij op de kinderen passen?",
+     "de": "Passt du auf die Kinder auf?"
+    }
+   ],
+   "lesson": "l-0129"
+  },
+  {
+   "id": "w-6020",
+   "nl": "hopen op",
+   "de": "hoffen auf",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "We hopen op mooi weer.",
+     "de": "Wir hoffen auf schönes Wetter."
+    }
+   ],
+   "lesson": "l-0129"
+  },
+  {
+   "id": "w-6021",
+   "nl": "reageren op",
+   "de": "reagieren auf",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Hij reageerde niet op mijn bericht.",
+     "de": "Er hat nicht auf meine Nachricht reagiert."
+    }
+   ],
+   "lesson": "l-0130"
+  },
+  {
+   "id": "w-6022",
+   "nl": "antwoorden op",
+   "de": "antworten auf",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Ze antwoordt meteen op de vraag.",
+     "de": "Sie antwortet sofort auf die Frage."
+    }
+   ],
+   "lesson": "l-0130"
+  },
+  {
+   "id": "w-6023",
+   "nl": "geloven in",
+   "de": "glauben an",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Geloof jij in geluk?",
+     "de": "Glaubst du an Glück?"
+    }
+   ],
+   "lesson": "l-0130"
+  },
+  {
+   "id": "w-6024",
+   "nl": "twijfelen aan",
+   "de": "zweifeln an",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Ik twijfel aan zijn verhaal.",
+     "de": "Ich zweifle an seiner Geschichte."
+    }
+   ],
+   "lesson": "l-0130"
+  },
+  {
+   "id": "w-6025",
+   "nl": "deelnemen aan",
+   "de": "teilnehmen an",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Zij neemt deel aan de wedstrijd.",
+     "de": "Sie nimmt am Wettkampf teil."
+    }
+   ],
+   "lesson": "l-0130"
+  },
+  {
+   "id": "w-6026",
+   "nl": "meedoen aan",
+   "de": "mitmachen bei",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Doe je mee aan het spel?",
+     "de": "Machst du beim Spiel mit?"
+    }
+   ],
+   "lesson": "l-0130"
+  },
+  {
+   "id": "w-6027",
+   "nl": "wennen aan",
+   "de": "sich gewöhnen an",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Ik moet nog wennen aan het weer.",
+     "de": "Ich muss mich noch an das Wetter gewöhnen."
+    }
+   ],
+   "lesson": "l-0130"
+  },
+  {
+   "id": "w-6028",
+   "nl": "werken aan",
+   "de": "arbeiten an",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Ze werkt aan een nieuw boek.",
+     "de": "Sie arbeitet an einem neuen Buch."
+    }
+   ],
+   "lesson": "l-0130"
+  },
+  {
+   "id": "w-6029",
+   "nl": "genieten van",
+   "de": "genießen",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "We genieten van de zon.",
+     "de": "Wir genießen die Sonne."
+    }
+   ],
+   "lesson": "l-0130"
+  },
+  {
+   "id": "w-6030",
+   "nl": "dromen van",
+   "de": "träumen von",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Zij droomt van een reis naar Japan.",
+     "de": "Sie träumt von einer Reise nach Japan."
+    }
+   ],
+   "lesson": "l-0130"
+  },
+  {
+   "id": "w-6031",
+   "nl": "afhangen van",
+   "de": "abhängen von",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Het hangt af van het weer.",
+     "de": "Es hängt vom Wetter ab."
+    }
+   ],
+   "lesson": "l-0131"
+  },
+  {
+   "id": "w-6032",
+   "nl": "schrikken van",
+   "de": "erschrecken vor",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Ik schrok van het harde geluid.",
+     "de": "Ich erschrak vor dem lauten Geräusch."
+    }
+   ],
+   "lesson": "l-0131"
+  },
+  {
+   "id": "w-6033",
+   "nl": "bestaan uit",
+   "de": "bestehen aus",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Het team bestaat uit vijf spelers.",
+     "de": "Die Mannschaft besteht aus fünf Spielern."
+    }
+   ],
+   "lesson": "l-0131"
+  },
+  {
+   "id": "w-6034",
+   "nl": "kiezen voor",
+   "de": "sich entscheiden für",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Ik kies voor de trein.",
+     "de": "Ich entscheide mich für den Zug."
+    }
+   ],
+   "lesson": "l-0131"
+  },
+  {
+   "id": "w-6035",
+   "nl": "betalen voor",
+   "de": "bezahlen für",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Wie betaalt voor het eten?",
+     "de": "Wer bezahlt für das Essen?"
+    }
+   ],
+   "lesson": "l-0131"
+  },
+  {
+   "id": "w-6036",
+   "nl": "bedanken voor",
+   "de": "sich bedanken für",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Ik wil je bedanken voor je hulp.",
+     "de": "Ich möchte mich für deine Hilfe bedanken."
+    }
+   ],
+   "lesson": "l-0131"
+  },
+  {
+   "id": "w-6037",
+   "nl": "waarschuwen voor",
+   "de": "warnen vor",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Ze waarschuwen voor gladheid.",
+     "de": "Sie warnen vor Glätte."
+    }
+   ],
+   "lesson": "l-0131"
+  },
+  {
+   "id": "w-6038",
+   "nl": "zich interesseren voor",
+   "de": "sich interessieren für",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Hij interesseert zich voor geschiedenis.",
+     "de": "Er interessiert sich für Geschichte."
+    }
+   ],
+   "lesson": "l-0131"
+  },
+  {
+   "id": "w-6039",
+   "nl": "zich schamen voor",
+   "de": "sich schämen für",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Hij schaamt zich voor zijn fout.",
+     "de": "Er schämt sich für seinen Fehler."
+    }
+   ],
+   "lesson": "l-0131"
+  },
+  {
+   "id": "w-6040",
+   "nl": "zich verheugen op",
+   "de": "sich freuen auf",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Ik verheug me op de vakantie.",
+     "de": "Ich freue mich auf den Urlaub."
+    }
+   ],
+   "lesson": "l-0131"
+  },
+  {
+   "id": "w-6041",
+   "nl": "zich voorbereiden op",
+   "de": "sich vorbereiten auf",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "We bereiden ons voor op het examen.",
+     "de": "Wir bereiten uns auf die Prüfung vor."
+    }
+   ],
+   "lesson": "l-0132"
+  },
+  {
+   "id": "w-6042",
+   "nl": "zich concentreren op",
+   "de": "sich konzentrieren auf",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Ik kan me niet concentreren op mijn werk.",
+     "de": "Ich kann mich nicht auf meine Arbeit konzentrieren."
+    }
+   ],
+   "lesson": "l-0132"
+  },
+  {
+   "id": "w-6043",
+   "nl": "zich ergeren aan",
+   "de": "sich ärgern über",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Ik erger me aan het lawaai.",
+     "de": "Ich ärgere mich über den Lärm."
+    }
+   ],
+   "lesson": "l-0132"
+  },
+  {
+   "id": "w-6044",
+   "nl": "zich zorgen maken over",
+   "de": "sich Sorgen machen um",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Ze maakt zich zorgen over haar zoon.",
+     "de": "Sie macht sich Sorgen um ihren Sohn."
+    }
+   ],
+   "lesson": "l-0132"
+  },
+  {
+   "id": "w-6045",
+   "nl": "nadenken over",
+   "de": "nachdenken über",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Ik moet er nog even over nadenken.",
+     "de": "Ich muss noch kurz darüber nachdenken."
+    }
+   ],
+   "lesson": "l-0132"
+  },
+  {
+   "id": "w-6046",
+   "nl": "klagen over",
+   "de": "sich beschweren über",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "De buren klagen over het lawaai.",
+     "de": "Die Nachbarn beschweren sich über den Lärm."
+    }
+   ],
+   "lesson": "l-0132"
+  },
+  {
+   "id": "w-6047",
+   "nl": "schrijven over",
+   "de": "schreiben über",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Ze schrijft een blog over haar reis.",
+     "de": "Sie schreibt einen Blog über ihre Reise."
+    }
+   ],
+   "lesson": "l-0132"
+  },
+  {
+   "id": "w-6048",
+   "nl": "lachen om",
+   "de": "lachen über",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "We lachten om zijn grap.",
+     "de": "Wir lachten über seinen Witz."
+    }
+   ],
+   "lesson": "l-0132"
+  },
+  {
+   "id": "w-6049",
+   "nl": "beschikken over",
+   "de": "verfügen über",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Het hotel beschikt over een zwembad.",
+     "de": "Das Hotel verfügt über ein Schwimmbad."
+    }
+   ],
+   "lesson": "l-0132"
+  },
+  {
+   "id": "w-6050",
+   "nl": "vechten tegen",
+   "de": "kämpfen gegen",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Ze vechten tegen de ziekte.",
+     "de": "Sie kämpfen gegen die Krankheit."
+    }
+   ],
+   "lesson": "l-0132"
+  },
+  {
+   "id": "w-6051",
+   "nl": "protesteren tegen",
+   "de": "protestieren gegen",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Duizenden mensen protesteren tegen het plan.",
+     "de": "Tausende Menschen protestieren gegen den Plan."
+    }
+   ],
+   "lesson": "l-0133"
+  },
+  {
+   "id": "w-6052",
+   "nl": "kennismaken met",
+   "de": "kennenlernen",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Ik wil graag kennismaken met je ouders.",
+     "de": "Ich möchte gern deine Eltern kennenlernen."
+    }
+   ],
+   "lesson": "l-0133"
+  },
+  {
+   "id": "w-6053",
+   "nl": "omgaan met",
+   "de": "umgehen mit",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Hij kan goed omgaan met kritiek.",
+     "de": "Er kann gut mit Kritik umgehen."
+    }
+   ],
+   "lesson": "l-0133"
+  },
+  {
+   "id": "w-6054",
+   "nl": "vergelijken met",
+   "de": "vergleichen mit",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Je kunt dat niet vergelijken met vroeger.",
+     "de": "Das kann man nicht mit früher vergleichen."
+    }
+   ],
+   "lesson": "l-0133"
+  },
+  {
+   "id": "w-6055",
+   "nl": "akkoord gaan met",
+   "de": "einverstanden sein mit",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Ik ga akkoord met het voorstel.",
+     "de": "Ich bin mit dem Vorschlag einverstanden."
+    }
+   ],
+   "lesson": "l-0133"
+  },
+  {
+   "id": "w-6056",
+   "nl": "trouwen met",
+   "de": "heiraten (jemanden)",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Zij trouwt volgend jaar met haar vriend.",
+     "de": "Sie heiratet nächstes Jahr ihren Freund."
+    }
+   ],
+   "lesson": "l-0133"
+  },
+  {
+   "id": "w-6057",
+   "nl": "verlangen naar",
+   "de": "sich sehnen nach",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Ik verlang naar de zomer.",
+     "de": "Ich sehne mich nach dem Sommer."
+    }
+   ],
+   "lesson": "l-0133"
+  },
+  {
+   "id": "w-6058",
+   "nl": "ruiken naar",
+   "de": "riechen nach",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Het huis ruikt naar koffie.",
+     "de": "Das Haus riecht nach Kaffee."
+    }
+   ],
+   "lesson": "l-0133"
+  },
+  {
+   "id": "w-6059",
+   "nl": "smaken naar",
+   "de": "schmecken nach",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Deze thee smaakt naar citroen.",
+     "de": "Dieser Tee schmeckt nach Zitrone."
+    }
+   ],
+   "lesson": "l-0133"
+  },
+  {
+   "id": "w-6060",
+   "nl": "solliciteren naar",
+   "de": "sich bewerben um",
+   "pos": "vprep",
+   "article": null,
+   "examples": [
+    {
+     "nl": "Ze solliciteert naar een nieuwe baan.",
+     "de": "Sie bewirbt sich um eine neue Stelle."
+    }
+   ],
+   "lesson": "l-0133"
+  }
+ ]
+}

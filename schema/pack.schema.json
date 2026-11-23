@@ -45,7 +45,7 @@
         "id": { "type": "string", "pattern": "^w-[0-9]{4,}$" },
         "nl": { "type": "string", "minLength": 1 },
         "de": { "type": "string", "minLength": 1 },
-        "pos": { "enum": ["noun", "verb", "adj", "adv", "pron", "prep", "conj", "num", "art", "interj", "other"] },
+        "pos": { "enum": ["noun", "verb", "vprep", "adj", "adv", "pron", "prep", "conj", "num", "art", "interj", "other"], "description": "vprep = Verb + Präposition (z. B. wachten op)" },
         "article": { "type": ["string", "null"], "enum": ["de", "het", "de|het", null] },
         "examples": { "type": "array", "items": { "$ref": "#/$defs/example" } },
         "lesson": { "type": "string", "pattern": "^l-[0-9]{4,}$" },
