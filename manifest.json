@@ -1,5 +1,5 @@
 {
-  "contentVersion": 2,
+  "contentVersion": 4,
   "packs": [
     {
       "id": "sentences-core",
@@ -10,14 +10,26 @@
     {
       "id": "words-core",
       "file": "packs/words-core.json",
-      "version": 1,
-      "sha256": "7152dd1bdb1cfc8d698aeeb24b980ce4b3a5522ad55e3bf0ff1fa87ad6252ce9"
+      "version": 2,
+      "sha256": "5224894c2447d38c698b3b9ea25d0223197ae1c49fe2489af8e860956dce64b4"
     },
     {
       "id": "verben-praeposition",
       "file": "packs/verben-praeposition.json",
+      "version": 3,
+      "sha256": "f66e37c30a5216bbede03783eadb6d49087bf247bf8495aea71fc91510176172"
+    },
+    {
+      "id": "grammatik",
+      "file": "packs/grammatik.json",
       "version": 1,
-      "sha256": "cc4ed34b7adb4af1bea9f6de95c238b3144a5924cf7d3512f254c9db679283fd"
+      "sha256": "366c2377ea28459cb87251fa8747e796ce7228472bf8cadab308e2372fa3600d"
+    },
+    {
+      "id": "words-hh",
+      "file": "packs/words-hh.json",
+      "version": 1,
+      "sha256": "fff8224c3bc3b50ac592dbd4ebcbdcde35ad90f2d41a39fc97b5d505622894b0"
     }
   ]
 }

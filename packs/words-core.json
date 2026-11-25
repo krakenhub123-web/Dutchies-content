@@ -1587,6 +1587,7 @@
    "phrases": [],
    "en": "year",
    "rank": 50,
+   "plural": "jaren",
    "lesson": "l-0005"
   },
   {
@@ -2210,6 +2211,7 @@
    "phrases": [],
    "en": "human",
    "rank": 85,
+   "plural": "mensen",
    "lesson": "l-0009"
   },
   {
@@ -2346,6 +2348,7 @@
    "phrases": [],
    "en": "time",
    "rank": 93,
+   "plural": "tijden",
    "lesson": "l-0009"
   },
   {
@@ -2554,6 +2557,7 @@
    "phrases": [],
    "en": "day",
    "rank": 104,
+   "plural": "dagen",
    "lesson": "l-0011"
   },
   {
@@ -2804,6 +2808,7 @@
    "phrases": [],
    "en": "place",
    "rank": 118,
+   "plural": "plaatsen",
    "lesson": "l-0012"
   },
   {
@@ -2855,6 +2860,7 @@
    "phrases": [],
    "en": "man",
    "rank": 121,
+   "plural": "mannen",
    "lesson": "l-0012"
   },
   {
@@ -2872,6 +2878,7 @@
    "phrases": [],
    "en": "week",
    "rank": 122,
+   "plural": "weken",
    "lesson": "l-0012"
   },
   {
@@ -2923,6 +2930,7 @@
    "phrases": [],
    "en": "time, occasion",
    "rank": 125,
+   "plural": "keren",
    "lesson": "l-0013"
   },
   {
@@ -3289,6 +3297,7 @@
    "phrases": [],
    "en": "hour",
    "rank": 146,
+   "plural": "uren",
    "lesson": "l-0015"
   },
   {
@@ -3514,6 +3523,7 @@
    "phrases": [],
    "en": "month",
    "rank": 159,
+   "plural": "maanden",
    "lesson": "l-0016"
   },
   {
@@ -3718,6 +3728,7 @@
    "phrases": [],
    "en": "child",
    "rank": 171,
+   "plural": "kinderen",
    "lesson": "l-0017"
   },
   {
@@ -3752,6 +3763,7 @@
    "phrases": [],
    "en": "country",
    "rank": 173,
+   "plural": "landen",
    "lesson": "l-0017"
   },
   {
@@ -3769,6 +3781,7 @@
    "phrases": [],
    "en": "woman",
    "rank": 174,
+   "plural": "vrouwen",
    "lesson": "l-0018"
   },
   {
@@ -3786,6 +3799,7 @@
    "phrases": [],
    "en": "hand",
    "rank": 175,
+   "plural": "handen",
    "lesson": "l-0018"
   },
   {
@@ -3803,6 +3817,7 @@
    "phrases": [],
    "en": "life",
    "rank": 176,
+   "plural": "levens",
    "lesson": "l-0018"
   },
   {
@@ -3841,6 +3856,7 @@
    "phrases": [],
    "en": "end",
    "rank": 178,
+   "plural": "einden",
    "lesson": "l-0018"
   },
   {
@@ -3926,6 +3942,7 @@
    "phrases": [],
    "en": "number",
    "rank": 183,
+   "plural": "aantallen",
    "lesson": "l-0018"
   },
   {
@@ -3977,6 +3994,7 @@
    "phrases": [],
    "en": "name",
    "rank": 186,
+   "plural": "namen",
    "lesson": "l-0019"
   },
   {
@@ -4011,6 +4029,7 @@
    "phrases": [],
    "en": "part",
    "rank": 188,
+   "plural": "delen",
    "lesson": "l-0019"
   },
   {
@@ -4113,6 +4132,7 @@
    "phrases": [],
    "en": "problem",
    "rank": 194,
+   "plural": "problemen",
    "lesson": "l-0020"
   },
   {
@@ -4253,6 +4273,7 @@
    "phrases": [],
    "en": "question",
    "rank": 202,
+   "plural": "vragen",
    "lesson": "l-0020"
   },
   {
@@ -4291,6 +4312,7 @@
    "phrases": [],
    "en": "a) case b) business",
    "rank": 204,
+   "plural": "zaken",
    "lesson": "l-0021"
   },
   {
@@ -4444,6 +4466,7 @@
    "phrases": [],
    "en": "house",
    "rank": 213,
+   "plural": "huizen",
    "lesson": "l-0021"
   },
   {
@@ -4470,6 +4493,7 @@
    ],
    "en": "case",
    "rank": 214,
+   "plural": "gevallen",
    "lesson": "l-0022"
   },
   {
@@ -4763,6 +4787,7 @@
    "phrases": [],
    "en": "couple",
    "rank": 231,
+   "plural": "paren",
    "lesson": "l-0023"
   },
   {
@@ -4848,6 +4873,7 @@
    "phrases": [],
    "en": "time, moment",
    "rank": 236,
+   "plural": "momenten",
    "lesson": "l-0024"
   },
   {
@@ -4865,6 +4891,7 @@
    "phrases": [],
    "en": "way",
    "rank": 237,
+   "plural": "manieren",
    "lesson": "l-0024"
   },
   {
@@ -4899,6 +4926,7 @@
    "phrases": [],
    "en": "world",
    "rank": 239,
+   "plural": "werelden",
    "lesson": "l-0024"
   },
   {
@@ -5001,6 +5029,7 @@
    "phrases": [],
    "en": "group",
    "rank": 245,
+   "plural": "groepen",
    "lesson": "l-0025"
   },
   {
@@ -5018,6 +5047,7 @@
    "phrases": [],
    "en": "town, city",
    "rank": 246,
+   "plural": "steden",
    "lesson": "l-0025"
   },
   {
@@ -5095,6 +5125,7 @@
    "phrases": [],
    "en": "piece",
    "rank": 250,
+   "plural": "stukken",
    "lesson": "l-0025"
   },
   {
@@ -5146,6 +5177,7 @@
    "phrases": [],
    "en": "chance",
    "rank": 253,
+   "plural": "kansen",
    "lesson": "l-0025"
   },
   {
@@ -5426,6 +5458,7 @@
    "phrases": [],
    "en": "eye",
    "rank": 269,
+   "plural": "ogen",
    "lesson": "l-0027"
   },
   {
@@ -5528,6 +5561,7 @@
    "phrases": [],
    "en": "word",
    "rank": 275,
+   "plural": "woorden",
    "lesson": "l-0028"
   },
   {
@@ -5732,6 +5766,7 @@
    "phrases": [],
    "en": "party",
    "rank": 287,
+   "plural": "partijen",
    "lesson": "l-0029"
   },
   {
@@ -5749,6 +5784,7 @@
    "phrases": [],
    "en": "kind of",
    "rank": 288,
+   "plural": "soorten",
    "lesson": "l-0029"
   },
   {
@@ -5783,6 +5819,7 @@
    "phrases": [],
    "en": "thing",
    "rank": 290,
+   "plural": "dingen",
    "lesson": "l-0029"
   },
   {
@@ -5800,6 +5837,7 @@
    "phrases": [],
    "en": "road",
    "rank": 291,
+   "plural": "wegen",
    "lesson": "l-0029"
   },
   {
@@ -6004,6 +6042,7 @@
    "phrases": [],
    "en": "photo",
    "rank": 303,
+   "plural": "foto's",
    "lesson": "l-0030"
   },
   {
@@ -6063,6 +6102,8 @@
    "phrases": [],
    "en": "a) full stop b) item c) point",
    "rank": 306,
+   "plural": "punten",
+   "articleMeaning": true,
    "lesson": "l-0031"
   },
   {
@@ -6148,6 +6189,7 @@
    "phrases": [],
    "en": "fact",
    "rank": 311,
+   "plural": "feiten",
    "lesson": "l-0031"
   },
   {
@@ -6182,6 +6224,7 @@
    "phrases": [],
    "en": "title",
    "rank": 313,
+   "plural": "titels",
    "lesson": "l-0031"
   },
   {
@@ -6199,6 +6242,7 @@
    "phrases": [],
    "en": "reason",
    "rank": 314,
+   "plural": "redenen",
    "lesson": "l-0032"
   },
   {
@@ -6335,6 +6379,7 @@
    "phrases": [],
    "en": "friend",
    "rank": 322,
+   "plural": "vrienden",
    "lesson": "l-0032"
   },
   {
@@ -6369,6 +6414,7 @@
    "phrases": [],
    "en": "head",
    "rank": 324,
+   "plural": "hoofden",
    "lesson": "l-0033"
   },
   {
@@ -6403,6 +6449,7 @@
    "phrases": [],
    "en": "business",
    "rank": 326,
+   "plural": "bedrijven",
    "lesson": "l-0033"
   },
   {
@@ -6420,6 +6467,7 @@
    "phrases": [],
    "en": "side",
    "rank": 327,
+   "plural": "kanten",
    "lesson": "l-0033"
   },
   {
@@ -6543,6 +6591,7 @@
    "phrases": [],
    "en": "story",
    "rank": 334,
+   "plural": "verhalen",
    "lesson": "l-0034"
   },
   {
@@ -6564,6 +6613,7 @@
    "phrases": [],
    "en": "a) article b) product, object",
    "rank": 335,
+   "plural": "artikelen",
    "lesson": "l-0034"
   },
   {
@@ -6581,6 +6631,7 @@
    "phrases": [],
    "en": "book",
    "rank": 336,
+   "plural": "boeken",
    "lesson": "l-0034"
   },
   {
@@ -6598,6 +6649,7 @@
    "phrases": [],
    "en": "research",
    "rank": 337,
+   "plural": "onderzoeken",
    "lesson": "l-0034"
   },
   {
@@ -6683,6 +6735,7 @@
    "phrases": [],
    "en": "result",
    "rank": 342,
+   "plural": "gevolgen",
    "lesson": "l-0034"
   },
   {
@@ -6700,6 +6753,7 @@
    "phrases": [],
    "en": "school",
    "rank": 343,
+   "plural": "scholen",
    "lesson": "l-0034"
   },
   {
@@ -6734,6 +6788,7 @@
    "phrases": [],
    "en": "plan",
    "rank": 345,
+   "plural": "plannen",
    "lesson": "l-0035"
   },
   {
@@ -6891,6 +6946,7 @@
    "phrases": [],
    "en": "idea",
    "rank": 354,
+   "plural": "ideeën",
    "lesson": "l-0036"
   },
   {
@@ -6912,6 +6968,7 @@
    "phrases": [],
    "en": "a) sentence b) sense",
    "rank": 355,
+   "plural": "zinnen",
    "lesson": "l-0036"
   },
   {
@@ -6929,6 +6986,7 @@
    "phrases": [],
    "en": "Sunday",
    "rank": 356,
+   "plural": "zondagen",
    "lesson": "l-0036"
   },
   {
@@ -6963,6 +7021,7 @@
    "phrases": [],
    "en": "Saturday",
    "rank": 358,
+   "plural": "zaterdagen",
    "lesson": "l-0036"
   },
   {
@@ -6997,6 +7056,7 @@
    "phrases": [],
    "en": "state",
    "rank": 360,
+   "plural": "staten",
    "lesson": "l-0036"
   },
   {
@@ -7065,6 +7125,7 @@
    "phrases": [],
    "en": "car",
    "rank": 364,
+   "plural": "auto's",
    "lesson": "l-0037"
   },
   {
@@ -7099,6 +7160,7 @@
    "phrases": [],
    "en": "father",
    "rank": 366,
+   "plural": "vaders",
    "lesson": "l-0037"
   },
   {
@@ -7116,6 +7178,7 @@
    "phrases": [],
    "en": "family",
    "rank": 367,
+   "plural": "families",
    "lesson": "l-0037"
   },
   {
@@ -7205,6 +7268,7 @@
    "phrases": [],
    "en": "mother",
    "rank": 372,
+   "plural": "moeders",
    "lesson": "l-0037"
   },
   {
@@ -7239,6 +7303,7 @@
    "phrases": [],
    "en": "member",
    "rank": 374,
+   "plural": "leden",
    "lesson": "l-0038"
   },
   {
@@ -7341,6 +7406,7 @@
    "phrases": [],
    "en": "form",
    "rank": 380,
+   "plural": "vormen",
    "lesson": "l-0038"
   },
   {
@@ -7413,6 +7479,7 @@
    "phrases": [],
    "en": "metre",
    "rank": 384,
+   "plural": "meters",
    "lesson": "l-0039"
   },
   {
@@ -7430,6 +7497,7 @@
    "phrases": [],
    "en": "role",
    "rank": 385,
+   "plural": "rollen",
    "lesson": "l-0039"
   },
   {
@@ -7447,6 +7515,7 @@
    "phrases": [],
    "en": "price",
    "rank": 386,
+   "plural": "prijzen",
    "lesson": "l-0039"
   },
   {
@@ -7515,6 +7584,7 @@
    "phrases": [],
    "en": "boy",
    "rank": 390,
+   "plural": "jongens",
    "lesson": "l-0039"
   },
   {
@@ -7549,6 +7619,7 @@
    "phrases": [],
    "en": "service",
    "rank": 392,
+   "plural": "diensten",
    "lesson": "l-0039"
   },
   {
@@ -7702,6 +7773,7 @@
    "phrases": [],
    "en": "result",
    "rank": 401,
+   "plural": "resultaten",
    "lesson": "l-0040"
   },
   {
@@ -7719,6 +7791,7 @@
    "phrases": [],
    "en": "minute",
    "rank": 402,
+   "plural": "minuten",
    "lesson": "l-0040"
   },
   {
@@ -7821,6 +7894,7 @@
    "phrases": [],
    "en": "success",
    "rank": 408,
+   "plural": "successen",
    "lesson": "l-0041"
   },
   {
@@ -7872,6 +7946,7 @@
    "phrases": [],
    "en": "street",
    "rank": 411,
+   "plural": "straten",
    "lesson": "l-0041"
   },
   {
@@ -7889,6 +7964,7 @@
    "phrases": [],
    "en": "parent",
    "rank": 412,
+   "plural": "ouders",
    "lesson": "l-0041"
   },
   {
@@ -8051,6 +8127,7 @@
    "phrases": [],
    "en": "person",
    "rank": 421,
+   "plural": "personen",
    "lesson": "l-0042"
   },
   {
@@ -8136,6 +8213,7 @@
    "phrases": [],
    "en": "period",
    "rank": 426,
+   "plural": "periodes",
    "lesson": "l-0043"
   },
   {
@@ -8170,6 +8248,7 @@
    "phrases": [],
    "en": "half",
    "rank": 428,
+   "plural": "helften",
    "lesson": "l-0043"
   },
   {
@@ -8187,6 +8266,7 @@
    "phrases": [],
    "en": "right",
    "rank": 429,
+   "plural": "rechten",
    "lesson": "l-0043"
   },
   {
@@ -8238,6 +8318,7 @@
    "phrases": [],
    "en": "feeling",
    "rank": 432,
+   "plural": "gevoelens",
    "lesson": "l-0043"
   },
   {
@@ -8255,6 +8336,7 @@
    "phrases": [],
    "en": "statue",
    "rank": 433,
+   "plural": "beelden",
    "lesson": "l-0043"
   },
   {
@@ -8272,6 +8354,7 @@
    "phrases": [],
    "en": "ground",
    "rank": 434,
+   "plural": "gronden",
    "lesson": "l-0044"
   },
   {
@@ -8323,6 +8406,7 @@
    "phrases": [],
    "en": "son",
    "rank": 437,
+   "plural": "zonen",
    "lesson": "l-0044"
   },
   {
@@ -8340,6 +8424,7 @@
    "phrases": [],
    "en": "door",
    "rank": 438,
+   "plural": "deuren",
    "lesson": "l-0044"
   },
   {
@@ -8391,6 +8476,7 @@
    "phrases": [],
    "en": "girl",
    "rank": 441,
+   "plural": "meisjes",
    "lesson": "l-0044"
   },
   {
@@ -8425,6 +8511,7 @@
    "phrases": [],
    "en": "night",
    "rank": 443,
+   "plural": "nachten",
    "lesson": "l-0044"
   },
   {
@@ -8578,6 +8665,7 @@
    "phrases": [],
    "en": "difference",
    "rank": 452,
+   "plural": "verschillen",
    "lesson": "l-0045"
   },
   {
@@ -8599,6 +8687,7 @@
    "phrases": [],
    "en": "programme, program",
    "rank": 453,
+   "plural": "programma's",
    "lesson": "l-0045"
   },
   {
@@ -8684,6 +8773,7 @@
    "phrases": [],
    "en": "newspaper",
    "rank": 458,
+   "plural": "kranten",
    "lesson": "l-0046"
   },
   {
@@ -8718,6 +8808,7 @@
    "phrases": [],
    "en": "number",
    "rank": 460,
+   "plural": "nummers",
    "lesson": "l-0046"
   },
   {
@@ -8744,6 +8835,7 @@
    ],
    "en": "importance",
    "rank": 461,
+   "plural": "belangen",
    "lesson": "l-0046"
   },
   {
@@ -8778,6 +8870,7 @@
    "phrases": [],
    "en": "situation",
    "rank": 463,
+   "plural": "situaties",
    "lesson": "l-0046"
   },
   {
@@ -8795,6 +8888,7 @@
    "phrases": [],
    "en": "kilometre",
    "rank": 464,
+   "plural": "kilometers",
    "lesson": "l-0047"
   },
   {
@@ -8999,6 +9093,7 @@
    "phrases": [],
    "en": "daughter",
    "rank": 476,
+   "plural": "dochters",
    "lesson": "l-0048"
   },
   {
@@ -9037,6 +9132,7 @@
    "phrases": [],
    "en": "a) voice b) vote",
    "rank": 478,
+   "plural": "stemmen",
    "lesson": "l-0048"
   },
   {
@@ -9088,6 +9184,7 @@
    "phrases": [],
    "en": "area",
    "rank": 481,
+   "plural": "gebieden",
    "lesson": "l-0048"
   },
   {
@@ -9105,6 +9202,7 @@
    "phrases": [],
    "en": "direction",
    "rank": 482,
+   "plural": "richtingen",
    "lesson": "l-0048"
   },
   {
@@ -9228,6 +9326,7 @@
    "phrases": [],
    "en": "answer",
    "rank": 489,
+   "plural": "antwoorden",
    "lesson": "l-0049"
   },
   {
@@ -9279,6 +9378,7 @@
    "phrases": [],
    "en": "example",
    "rank": 492,
+   "plural": "voorbeelden",
    "lesson": "l-0049"
   },
   {
@@ -9296,6 +9396,7 @@
    "phrases": [],
    "en": "weekend",
    "rank": 493,
+   "plural": "weekenden",
    "lesson": "l-0049"
   },
   {
@@ -9330,6 +9431,7 @@
    "phrases": [],
    "en": "goal",
    "rank": 495,
+   "plural": "doelen",
    "lesson": "l-0050"
   },
   {
@@ -9381,6 +9483,7 @@
    "phrases": [],
    "en": "light",
    "rank": 498,
+   "plural": "lichten",
    "lesson": "l-0050"
   },
   {
@@ -9483,6 +9586,7 @@
    "phrases": [],
    "en": "neighbourhood",
    "rank": 504,
+   "plural": "buurten",
    "lesson": "l-0051"
   },
   {
@@ -9500,6 +9604,7 @@
    "phrases": [],
    "en": "victim",
    "rank": 505,
+   "plural": "slachtoffers",
    "lesson": "l-0051"
   },
   {
@@ -9517,6 +9622,7 @@
    "phrases": [],
    "en": "reaction",
    "rank": 506,
+   "plural": "reacties",
    "lesson": "l-0051"
   },
   {
@@ -9551,6 +9657,7 @@
    "phrases": [],
    "en": "contact",
    "rank": 508,
+   "plural": "contacten",
    "lesson": "l-0051"
   },
   {
@@ -9568,6 +9675,7 @@
    "phrases": [],
    "en": "television",
    "rank": 509,
+   "plural": "televisies",
    "lesson": "l-0051"
   },
   {
@@ -9602,6 +9710,7 @@
    "phrases": [],
    "en": "map",
    "rank": 511,
+   "plural": "kaarten",
    "lesson": "l-0051"
   },
   {
@@ -9636,6 +9745,7 @@
    "phrases": [],
    "en": "evening",
    "rank": 513,
+   "plural": "avonden",
    "lesson": "l-0051"
   },
   {
@@ -9653,6 +9763,7 @@
    "phrases": [],
    "en": "foot",
    "rank": 514,
+   "plural": "voeten",
    "lesson": "l-0052"
   },
   {
@@ -9679,6 +9790,7 @@
    ],
    "en": "bill",
    "rank": 515,
+   "plural": "rekeningen",
    "lesson": "l-0052"
   },
   {
@@ -9713,6 +9825,7 @@
    "phrases": [],
    "en": "century",
    "rank": 517,
+   "plural": "eeuwen",
    "lesson": "l-0052"
   },
   {
@@ -9760,6 +9873,7 @@
    "phrases": [],
    "en": "a) head b) cup",
    "rank": 519,
+   "plural": "koppen",
    "lesson": "l-0052"
   },
   {
@@ -9900,6 +10014,7 @@
    "phrases": [],
    "en": "film",
    "rank": 527,
+   "plural": "films",
    "lesson": "l-0053"
   },
   {
@@ -9917,6 +10032,7 @@
    "phrases": [],
    "en": "possibility",
    "rank": 528,
+   "plural": "mogelijkheden",
    "lesson": "l-0053"
   },
   {
@@ -9934,6 +10050,7 @@
    "phrases": [],
    "en": "market",
    "rank": 529,
+   "plural": "markten",
    "lesson": "l-0053"
   },
   {
@@ -10057,6 +10174,7 @@
    "phrases": [],
    "en": "choice",
    "rank": 536,
+   "plural": "keuzes",
    "lesson": "l-0054"
   },
   {
@@ -10159,6 +10277,7 @@
    "phrases": [],
    "en": "list",
    "rank": 542,
+   "plural": "lijsten",
    "lesson": "l-0054"
   },
   {
@@ -10227,6 +10346,7 @@
    "phrases": [],
    "en": "height",
    "rank": 546,
+   "plural": "hoogten",
    "lesson": "l-0055"
   },
   {
@@ -10244,6 +10364,7 @@
    "phrases": [],
    "en": "face",
    "rank": 547,
+   "plural": "gezichten",
    "lesson": "l-0055"
   },
   {
@@ -10278,6 +10399,7 @@
    "phrases": [],
    "en": "conversation",
    "rank": 549,
+   "plural": "gesprekken",
    "lesson": "l-0055"
   },
   {
@@ -10329,6 +10451,7 @@
    "phrases": [],
    "en": "step",
    "rank": 552,
+   "plural": "stappen",
    "lesson": "l-0055"
   },
   {
@@ -10380,6 +10503,7 @@
    "phrases": [],
    "en": "experience",
    "rank": 555,
+   "plural": "ervaringen",
    "lesson": "l-0056"
   },
   {
@@ -10414,6 +10538,7 @@
    "phrases": [],
    "en": "history",
    "rank": 557,
+   "plural": "geschiedenissen",
    "lesson": "l-0056"
   },
   {
@@ -10516,6 +10641,7 @@
    "phrases": [],
    "en": "place, spot",
    "rank": 563,
+   "plural": "plekken",
    "lesson": "l-0056"
   },
   {
@@ -10533,6 +10659,7 @@
    "phrases": [],
    "en": "centre",
    "rank": 564,
+   "plural": "centra",
    "lesson": "l-0057"
   },
   {
@@ -10584,6 +10711,7 @@
    "phrases": [],
    "en": "war",
    "rank": 567,
+   "plural": "oorlogen",
    "lesson": "l-0057"
   },
   {
@@ -10635,6 +10763,7 @@
    "phrases": [],
    "en": "space",
    "rank": 570,
+   "plural": "ruimten",
    "lesson": "l-0057"
   },
   {
@@ -10686,6 +10815,7 @@
    "phrases": [],
    "en": "bond",
    "rank": 573,
+   "plural": "banden",
    "lesson": "l-0057"
   },
   {
@@ -10720,6 +10850,7 @@
    "phrases": [],
    "en": "director",
    "rank": 575,
+   "plural": "directeuren",
    "lesson": "l-0058"
   },
   {
@@ -10754,6 +10885,7 @@
    "phrases": [],
    "en": "summer",
    "rank": 577,
+   "plural": "zomers",
    "lesson": "l-0058"
   },
   {
@@ -10771,6 +10903,7 @@
    "phrases": [],
    "en": "strength",
    "rank": 578,
+   "plural": "krachten",
    "lesson": "l-0058"
   },
   {
@@ -10822,6 +10955,7 @@
    "phrases": [],
    "en": "intention",
    "rank": 581,
+   "plural": "bedoelingen",
    "lesson": "l-0058"
   },
   {
@@ -10882,6 +11016,7 @@
    "phrases": [],
    "en": "age",
    "rank": 584,
+   "plural": "leeftijden",
    "lesson": "l-0059"
   },
   {
@@ -10916,6 +11051,7 @@
    "phrases": [],
    "en": "back",
    "rank": 586,
+   "plural": "ruggen",
    "lesson": "l-0059"
   },
   {
@@ -10954,6 +11090,7 @@
    "phrases": [],
    "en": "a) bank b) bench, sofa",
    "rank": 588,
+   "plural": "banken",
    "lesson": "l-0059"
   },
   {
@@ -11043,6 +11180,7 @@
    "phrases": [],
    "en": "heart",
    "rank": 593,
+   "plural": "harten",
    "lesson": "l-0059"
   },
   {
@@ -11111,6 +11249,7 @@
    "phrases": [],
    "en": "value",
    "rank": 597,
+   "plural": "waarden",
    "lesson": "l-0060"
   },
   {
@@ -11128,6 +11267,7 @@
    "phrases": [],
    "en": "hospital",
    "rank": 598,
+   "plural": "ziekenhuizen",
    "lesson": "l-0060"
   },
   {
@@ -11162,6 +11302,7 @@
    "phrases": [],
    "en": "solution",
    "rank": 600,
+   "plural": "oplossingen",
    "lesson": "l-0060"
   },
   {
@@ -11205,6 +11346,7 @@
    ],
    "en": "blow",
    "rank": 602,
+   "plural": "slagen",
    "lesson": "l-0060"
   },
   {
@@ -11222,6 +11364,7 @@
    "phrases": [],
    "en": "message",
    "rank": 603,
+   "plural": "berichten",
    "lesson": "l-0060"
   },
   {
@@ -11273,6 +11416,7 @@
    "phrases": [],
    "en": "colleague",
    "rank": 606,
+   "plural": "collega's",
    "lesson": "l-0061"
   },
   {
@@ -11341,6 +11485,7 @@
    "phrases": [],
    "en": "job",
    "rank": 610,
+   "plural": "banen",
    "lesson": "l-0061"
   },
   {
@@ -11367,6 +11512,7 @@
    ],
    "en": "load",
    "rank": 611,
+   "plural": "lasten",
    "lesson": "l-0061"
   },
   {
@@ -11401,6 +11547,7 @@
    "phrases": [],
    "en": "text",
    "rank": 613,
+   "plural": "teksten",
    "lesson": "l-0061"
   },
   {
@@ -11418,6 +11565,7 @@
    "phrases": [],
    "en": "visit",
    "rank": 614,
+   "plural": "bezoeken",
    "lesson": "l-0062"
   },
   {
@@ -11456,6 +11604,7 @@
    "phrases": [],
    "en": "room",
    "rank": 616,
+   "plural": "kamers",
    "lesson": "l-0062"
   },
   {
@@ -11533,6 +11682,7 @@
    "phrases": [],
    "en": "line",
    "rank": 620,
+   "plural": "lijnen",
    "lesson": "l-0062"
   },
   {
@@ -11567,6 +11717,7 @@
    "phrases": [],
    "en": "corridor",
    "rank": 622,
+   "plural": "gangen",
    "lesson": "l-0062"
   },
   {
@@ -11635,6 +11786,7 @@
    "phrases": [],
    "en": "table",
    "rank": 626,
+   "plural": "tafels",
    "lesson": "l-0063"
   },
   {
@@ -11652,6 +11804,7 @@
    "phrases": [],
    "en": "means",
    "rank": 627,
+   "plural": "middelen",
    "lesson": "l-0063"
   },
   {
@@ -11669,6 +11822,7 @@
    "phrases": [],
    "en": "family",
    "rank": 628,
+   "plural": "gezinnen",
    "lesson": "l-0063"
   },
   {
@@ -11741,6 +11895,7 @@
    "phrases": [],
    "en": "opinion",
    "rank": 632,
+   "plural": "meningen",
    "lesson": "l-0063"
   },
   {
@@ -11775,6 +11930,7 @@
    "phrases": [],
    "en": "border",
    "rank": 634,
+   "plural": "grenzen",
    "lesson": "l-0064"
   },
   {
@@ -11809,6 +11965,7 @@
    "phrases": [],
    "en": "decision",
    "rank": 636,
+   "plural": "beslissingen",
    "lesson": "l-0064"
   },
   {
@@ -11894,6 +12051,7 @@
    "phrases": [],
    "en": "law",
    "rank": 641,
+   "plural": "wetten",
    "lesson": "l-0064"
   },
   {
@@ -11928,6 +12086,7 @@
    "phrases": [],
    "en": "building",
    "rank": 643,
+   "plural": "gebouwen",
    "lesson": "l-0064"
   },
   {
@@ -11962,6 +12121,7 @@
    "phrases": [],
    "en": "task",
    "rank": 645,
+   "plural": "opdrachten",
    "lesson": "l-0065"
   },
   {
@@ -12081,6 +12241,7 @@
    "phrases": [],
    "en": "game",
    "rank": 652,
+   "plural": "spellen",
    "lesson": "l-0065"
   },
   {
@@ -12140,6 +12301,7 @@
    "phrases": [],
    "en": "a) care b) worry",
    "rank": 655,
+   "plural": "zorgen",
    "lesson": "l-0066"
   },
   {
@@ -12191,6 +12353,7 @@
    "phrases": [],
    "en": "letter",
    "rank": 658,
+   "plural": "brieven",
    "lesson": "l-0066"
   },
   {
@@ -12225,6 +12388,7 @@
    "phrases": [],
    "en": "leg",
    "rank": 660,
+   "plural": "benen",
    "lesson": "l-0066"
   },
   {
@@ -12242,6 +12406,7 @@
    "phrases": [],
    "en": "environment, surroundings",
    "rank": 661,
+   "plural": "omgevingen",
    "lesson": "l-0066"
   },
   {
@@ -12259,6 +12424,7 @@
    "phrases": [],
    "en": "brother",
    "rank": 662,
+   "plural": "broers",
    "lesson": "l-0066"
   },
   {
@@ -12314,6 +12480,7 @@
    "phrases": [],
    "en": "impression",
    "rank": 665,
+   "plural": "indrukken",
    "lesson": "l-0067"
   },
   {
@@ -12382,6 +12549,7 @@
    "phrases": [],
    "en": "language",
    "rank": 669,
+   "plural": "talen",
    "lesson": "l-0067"
   },
   {
@@ -12399,6 +12567,7 @@
    "phrases": [],
    "en": "shop",
    "rank": 670,
+   "plural": "winkels",
    "lesson": "l-0067"
   },
   {
@@ -12450,6 +12619,7 @@
    "phrases": [],
    "en": "rule",
    "rank": 673,
+   "plural": "regels",
    "lesson": "l-0067"
   },
   {
@@ -12569,6 +12739,7 @@
    "phrases": [],
    "en": "people",
    "rank": 680,
+   "plural": "volken",
    "lesson": "l-0068"
   },
   {
@@ -12586,6 +12757,7 @@
    "phrases": [],
    "en": "advantage",
    "rank": 681,
+   "plural": "voordelen",
    "lesson": "l-0068"
   },
   {
@@ -12654,6 +12826,7 @@
    "phrases": [],
    "en": "arm",
    "rank": 685,
+   "plural": "armen",
    "lesson": "l-0069"
   },
   {
@@ -12713,6 +12886,7 @@
    "phrases": [],
    "en": "a) (female) friend b) girlfriend",
    "rank": 688,
+   "plural": "vriendinnen",
    "lesson": "l-0069"
   },
   {
@@ -12730,6 +12904,7 @@
    "phrases": [],
    "en": "bed",
    "rank": 689,
+   "plural": "bedden",
    "lesson": "l-0069"
   },
   {
@@ -12747,6 +12922,7 @@
    "phrases": [],
    "en": "top",
    "rank": 690,
+   "plural": "toppen",
    "lesson": "l-0069"
   },
   {
@@ -12806,6 +12982,7 @@
    "phrases": [],
    "en": "a) position b) score",
    "rank": 693,
+   "plural": "standen",
    "lesson": "l-0069"
   },
   {
@@ -12823,6 +13000,7 @@
    "phrases": [],
    "en": "mummy",
    "rank": 694,
+   "plural": "mama's",
    "lesson": "l-0070"
   },
   {
@@ -12857,6 +13035,7 @@
    "phrases": [],
    "en": "relation",
    "rank": 696,
+   "plural": "relaties",
    "lesson": "l-0070"
   },
   {
@@ -12908,6 +13087,7 @@
    "phrases": [],
    "en": "power",
    "rank": 699,
+   "plural": "machten",
    "lesson": "l-0070"
   },
   {
@@ -12925,6 +13105,7 @@
    "phrases": [],
    "en": "church",
    "rank": 700,
+   "plural": "kerken",
    "lesson": "l-0070"
   },
   {
@@ -12942,6 +13123,7 @@
    "phrases": [],
    "en": "profession",
    "rank": 701,
+   "plural": "beroepen",
    "lesson": "l-0070"
   },
   {
@@ -12959,6 +13141,7 @@
    "phrases": [],
    "en": "body",
    "rank": 702,
+   "plural": "lichamen",
    "lesson": "l-0070"
   },
   {
@@ -13078,6 +13261,7 @@
    "phrases": [],
    "en": "village",
    "rank": 709,
+   "plural": "dorpen",
    "lesson": "l-0071"
   },
   {
@@ -13095,6 +13279,7 @@
    "phrases": [],
    "en": "thought",
    "rank": 710,
+   "plural": "gedachten",
    "lesson": "l-0071"
   },
   {
@@ -13112,6 +13297,7 @@
    "phrases": [],
    "en": "influence",
    "rank": 711,
+   "plural": "invloeden",
    "lesson": "l-0071"
   },
   {
@@ -13231,6 +13417,7 @@
    "phrases": [],
    "en": "distance",
    "rank": 718,
+   "plural": "afstanden",
    "lesson": "l-0072"
   },
   {
@@ -13299,6 +13486,7 @@
    "phrases": [],
    "en": "proposal",
    "rank": 722,
+   "plural": "voorstellen",
    "lesson": "l-0072"
   },
   {
@@ -13401,6 +13589,7 @@
    "phrases": [],
    "en": "party",
    "rank": 728,
+   "plural": "feesten",
    "lesson": "l-0073"
   },
   {
@@ -13435,6 +13624,7 @@
    "phrases": [],
    "en": "question, issue",
    "rank": 730,
+   "plural": "kwesties",
    "lesson": "l-0073"
   },
   {
@@ -13490,6 +13680,7 @@
    "phrases": [],
    "en": "god",
    "rank": 733,
+   "plural": "goden",
    "lesson": "l-0073"
   },
   {
@@ -13524,6 +13715,7 @@
    "phrases": [],
    "en": "animal",
    "rank": 735,
+   "plural": "dieren",
    "lesson": "l-0074"
   },
   {
@@ -13541,6 +13733,7 @@
    "phrases": [],
    "en": "corner",
    "rank": 736,
+   "plural": "hoeken",
    "lesson": "l-0074"
   },
   {
@@ -13575,6 +13768,7 @@
    "phrases": [],
    "en": "ball",
    "rank": 738,
+   "plural": "ballen",
    "lesson": "l-0074"
   },
   {
@@ -13643,6 +13837,7 @@
    "phrases": [],
    "en": "mouth",
    "rank": 742,
+   "plural": "monden",
    "lesson": "l-0074"
   },
   {
@@ -13677,6 +13872,7 @@
    "phrases": [],
    "en": "ten",
    "rank": 744,
+   "plural": "tientallen",
    "lesson": "l-0075"
   },
   {
@@ -13711,6 +13907,7 @@
    "phrases": [],
    "en": "study",
    "rank": 746,
+   "plural": "studies",
    "lesson": "l-0075"
   },
   {
@@ -13745,6 +13942,7 @@
    "phrases": [],
    "en": "hole",
    "rank": 748,
+   "plural": "gaten",
    "lesson": "l-0075"
   },
   {
@@ -13762,6 +13960,7 @@
    "phrases": [],
    "en": "colour",
    "rank": 749,
+   "plural": "kleuren",
    "lesson": "l-0075"
   },
   {
@@ -13830,6 +14029,7 @@
    "phrases": [],
    "en": "position",
    "rank": 753,
+   "plural": "posities",
    "lesson": "l-0075"
   },
   {
@@ -13847,6 +14047,7 @@
    "phrases": [],
    "en": "guest",
    "rank": 754,
+   "plural": "gasten",
    "lesson": "l-0076"
   },
   {
@@ -13881,6 +14082,7 @@
    "phrases": [],
    "en": "reason, occasion",
    "rank": 756,
+   "plural": "aanleidingen",
    "lesson": "l-0076"
   },
   {
@@ -13898,6 +14100,7 @@
    "phrases": [],
    "en": "ground",
    "rank": 757,
+   "plural": "terreinen",
    "lesson": "l-0076"
   },
   {
@@ -13932,6 +14135,7 @@
    "phrases": [],
    "en": "row",
    "rank": 759,
+   "plural": "rijen",
    "lesson": "l-0076"
   },
   {
@@ -13949,6 +14153,7 @@
    "phrases": [],
    "en": "university",
    "rank": 760,
+   "plural": "universiteiten",
    "lesson": "l-0076"
   },
   {
@@ -13983,6 +14188,7 @@
    "phrases": [],
    "en": "lesson",
    "rank": 762,
+   "plural": "lessen",
    "lesson": "l-0076"
   },
   {
@@ -14068,6 +14274,7 @@
    "phrases": [],
    "en": "topic",
    "rank": 767,
+   "plural": "onderwerpen",
    "lesson": "l-0077"
   },
   {
@@ -14179,6 +14386,7 @@
    "phrases": [],
    "en": "appointment",
    "rank": 773,
+   "plural": "afspraken",
    "lesson": "l-0077"
   },
   {
@@ -14272,6 +14480,7 @@
    "phrases": [],
    "en": "wall",
    "rank": 778,
+   "plural": "muren",
    "lesson": "l-0078"
   },
   {
@@ -14310,6 +14519,7 @@
    "phrases": [],
    "en": "1) message 2) purchase, shopping",
    "rank": 780,
+   "plural": "boodschappen",
    "lesson": "l-0078"
   },
   {
@@ -14344,6 +14554,7 @@
    "phrases": [],
    "en": "bag",
    "rank": 782,
+   "plural": "zakken",
    "lesson": "l-0078"
   },
   {
@@ -14361,6 +14572,7 @@
    "phrases": [],
    "en": "roof",
    "rank": 783,
+   "plural": "daken",
    "lesson": "l-0078"
   },
   {
@@ -14378,6 +14590,7 @@
    "phrases": [],
    "en": "sea",
    "rank": 784,
+   "plural": "zeeën",
    "lesson": "l-0079"
   },
   {
@@ -14395,6 +14608,7 @@
    "phrases": [],
    "en": "holiday",
    "rank": 785,
+   "plural": "vakanties",
    "lesson": "l-0079"
   },
   {
@@ -14480,6 +14694,7 @@
    "phrases": [],
    "en": "desk",
    "rank": 790,
+   "plural": "bureaus",
    "lesson": "l-0079"
   },
   {
@@ -14599,6 +14814,7 @@
    "phrases": [],
    "en": "tree",
    "rank": 797,
+   "plural": "bomen",
    "lesson": "l-0080"
   },
   {
@@ -14667,6 +14883,7 @@
    "phrases": [],
    "en": "movement",
    "rank": 801,
+   "plural": "bewegingen",
    "lesson": "l-0080"
   },
   {
@@ -14726,6 +14943,7 @@
    "phrases": [],
    "en": "a) debt b) blame",
    "rank": 804,
+   "plural": "schulden",
    "lesson": "l-0081"
   },
   {
@@ -14743,6 +14961,7 @@
    "phrases": [],
    "en": "bus",
    "rank": 805,
+   "plural": "bussen",
    "lesson": "l-0081"
   },
   {
@@ -14777,6 +14996,7 @@
    "phrases": [],
    "en": "atmosphere",
    "rank": 807,
+   "plural": "sferen",
    "lesson": "l-0081"
   },
   {
@@ -14794,6 +15014,7 @@
    "phrases": [],
    "en": "task",
    "rank": 808,
+   "plural": "taken",
    "lesson": "l-0081"
   },
   {
@@ -14811,6 +15032,7 @@
    "phrases": [],
    "en": "pain",
    "rank": 809,
+   "plural": "pijnen",
    "lesson": "l-0081"
   },
   {
@@ -14832,6 +15054,7 @@
    "phrases": [],
    "en": "a) link b) bandage",
    "rank": 810,
+   "plural": "verbanden",
    "lesson": "l-0081"
   },
   {
@@ -14900,6 +15123,7 @@
    "phrases": [],
    "en": "sun",
    "rank": 814,
+   "plural": "zonnen",
    "lesson": "l-0082"
   },
   {
@@ -14951,6 +15175,7 @@
    "phrases": [],
    "en": "lock",
    "rank": 817,
+   "plural": "sloten",
    "lesson": "l-0082"
   },
   {
@@ -15002,6 +15227,7 @@
    "phrases": [],
    "en": "pupil",
    "rank": 820,
+   "plural": "leerlingen",
    "lesson": "l-0082"
   },
   {
@@ -15185,6 +15411,7 @@
    "phrases": [],
    "en": "song",
    "rank": 830,
+   "plural": "liederen",
    "lesson": "l-0083"
   },
   {
@@ -15236,6 +15463,7 @@
    "phrases": [],
    "en": "trip, journey",
    "rank": 833,
+   "plural": "reizen",
    "lesson": "l-0083"
   },
   {
@@ -15253,6 +15481,7 @@
    "phrases": [],
    "en": "turn",
    "rank": 834,
+   "plural": "beurten",
    "lesson": "l-0084"
   },
   {
@@ -15304,6 +15533,7 @@
    "phrases": [],
    "en": "finger",
    "rank": 837,
+   "plural": "vingers",
    "lesson": "l-0084"
   },
   {
@@ -15372,6 +15602,7 @@
    "phrases": [],
    "en": "student",
    "rank": 841,
+   "plural": "studenten",
    "lesson": "l-0084"
   },
   {
@@ -15440,6 +15671,7 @@
    "phrases": [],
    "en": "ear",
    "rank": 845,
+   "plural": "oren",
    "lesson": "l-0085"
   },
   {
@@ -15461,6 +15693,7 @@
    "phrases": [],
    "en": "1) suit 2) bunch",
    "rank": 846,
+   "plural": "pakken",
    "lesson": "l-0085"
   },
   {
@@ -15478,6 +15711,7 @@
    "phrases": [],
    "en": "understanding",
    "rank": 847,
+   "plural": "begrippen",
    "lesson": "l-0085"
   },
   {
@@ -15529,6 +15763,7 @@
    "phrases": [],
    "en": "garden",
    "rank": 850,
+   "plural": "tuinen",
    "lesson": "l-0085"
   },
   {
@@ -15580,6 +15815,7 @@
    "phrases": [],
    "en": "fear",
    "rank": 853,
+   "plural": "angsten",
    "lesson": "l-0085"
   },
   {
@@ -15614,6 +15850,7 @@
    "phrases": [],
    "en": "opportunity",
    "rank": 855,
+   "plural": "gelegenheden",
    "lesson": "l-0086"
   },
   {
@@ -15631,6 +15868,7 @@
    "phrases": [],
    "en": "nose",
    "rank": 856,
+   "plural": "neuzen",
    "lesson": "l-0086"
   },
   {
@@ -15784,6 +16022,7 @@
    "phrases": [],
    "en": "bicycle",
    "rank": 865,
+   "plural": "fietsen",
    "lesson": "l-0087"
   },
   {
@@ -15818,6 +16057,7 @@
    "phrases": [],
    "en": "dog",
    "rank": 867,
+   "plural": "honden",
    "lesson": "l-0087"
   },
   {
@@ -15835,6 +16075,7 @@
    "phrases": [],
    "en": "lady",
    "rank": 868,
+   "plural": "dames",
    "lesson": "l-0087"
   },
   {
@@ -15937,6 +16178,7 @@
    "phrases": [],
    "en": "change",
    "rank": 874,
+   "plural": "veranderingen",
    "lesson": "l-0088"
   },
   {
@@ -15971,6 +16213,7 @@
    "phrases": [],
    "en": "radio",
    "rank": 876,
+   "plural": "radio's",
    "lesson": "l-0088"
   },
   {
@@ -16022,6 +16265,7 @@
    "phrases": [],
    "en": "regard",
    "rank": 879,
+   "plural": "opzichten",
    "lesson": "l-0088"
   },
   {
@@ -16073,6 +16317,7 @@
    "phrases": [],
    "en": "state",
    "rank": 882,
+   "plural": "toestanden",
    "lesson": "l-0088"
   },
   {
@@ -16090,6 +16335,7 @@
    "phrases": [],
    "en": "station",
    "rank": 883,
+   "plural": "stations",
    "lesson": "l-0088"
   },
   {
@@ -16141,6 +16387,7 @@
    "phrases": [],
    "en": "gentleman",
    "rank": 886,
+   "plural": "heren",
    "lesson": "l-0089"
   },
   {
@@ -16175,6 +16422,7 @@
    "phrases": [],
    "en": "sign",
    "rank": 888,
+   "plural": "tekens",
    "lesson": "l-0089"
   },
   {
@@ -16192,6 +16440,7 @@
    "phrases": [],
    "en": "boss",
    "rank": 889,
+   "plural": "bazen",
    "lesson": "l-0089"
   },
   {
@@ -16226,6 +16475,7 @@
    ],
    "en": "1) size 2) rhythm 3) mate",
    "rank": 890,
+   "plural": "maten",
    "lesson": "l-0089"
   },
   {
@@ -16277,6 +16527,7 @@
    "phrases": [],
    "en": "hair",
    "rank": 893,
+   "plural": "haren",
    "lesson": "l-0089"
   },
   {
@@ -16311,6 +16562,7 @@
    "phrases": [],
    "en": "doctor, GP",
    "rank": 895,
+   "plural": "dokters",
    "lesson": "l-0090"
   },
   {
@@ -16345,6 +16597,7 @@
    "phrases": [],
    "en": "dust",
    "rank": 897,
+   "articleMeaning": true,
    "lesson": "l-0090"
   },
   {
@@ -16396,6 +16649,7 @@
    "phrases": [],
    "en": "sound",
    "rank": 900,
+   "plural": "geluiden",
    "lesson": "l-0090"
   },
   {
@@ -16417,6 +16671,7 @@
    "phrases": [],
    "en": "a) journal, magazine b) leaf",
    "rank": 901,
+   "plural": "bladen",
    "lesson": "l-0090"
   },
   {
@@ -16455,6 +16710,8 @@
    "phrases": [],
    "en": "1) forest 2) bunch",
    "rank": 903,
+   "plural": "bossen",
+   "articleMeaning": true,
    "lesson": "l-0090"
   },
   {
@@ -16493,6 +16750,7 @@
    "phrases": [],
    "en": "sister",
    "rank": 905,
+   "plural": "zussen",
    "lesson": "l-0091"
   },
   {
@@ -16510,6 +16768,7 @@
    "phrases": [],
    "en": "train",
    "rank": 906,
+   "plural": "treinen",
    "lesson": "l-0091"
   },
   {
@@ -16565,6 +16824,7 @@
    "phrases": [],
    "en": "type",
    "rank": 909,
+   "plural": "types",
    "lesson": "l-0091"
   },
   {
@@ -16701,6 +16961,7 @@
    "phrases": [],
    "en": "flower",
    "rank": 917,
+   "plural": "bloemen",
    "lesson": "l-0092"
   },
   {
@@ -16786,6 +17047,7 @@
    "phrases": [],
    "en": "morning",
    "rank": 922,
+   "plural": "ochtenden",
    "lesson": "l-0092"
   },
   {
@@ -16803,6 +17065,7 @@
    "phrases": [],
    "en": "birthday",
    "rank": 923,
+   "plural": "verjaardagen",
    "lesson": "l-0092"
   },
   {
@@ -16824,6 +17087,7 @@
    "phrases": [],
    "en": "a) record b) plate",
    "rank": 924,
+   "plural": "platen",
    "lesson": "l-0093"
   },
   {
@@ -16854,6 +17118,7 @@
    ],
    "en": "cost(s)",
    "rank": 925,
+   "plural": "kosten",
    "lesson": "l-0093"
   },
   {
@@ -16871,6 +17136,7 @@
    "phrases": [],
    "en": "need",
    "rank": 926,
+   "plural": "behoeften",
    "lesson": "l-0093"
   },
   {
@@ -16939,6 +17205,7 @@
    "phrases": [],
    "en": "edge",
    "rank": 930,
+   "plural": "randen",
    "lesson": "l-0093"
   },
   {
@@ -16956,6 +17223,7 @@
    "phrases": [],
    "en": "background",
    "rank": 931,
+   "plural": "achtergronden",
    "lesson": "l-0093"
   },
   {
@@ -17007,6 +17275,7 @@
    "phrases": [],
    "en": "remark",
    "rank": 933,
+   "plural": "opmerkingen",
    "lesson": "l-0093"
   },
   {
@@ -17028,6 +17297,7 @@
    "phrases": [],
    "en": "figure",
    "rank": 934,
+   "plural": "figuren",
    "lesson": "l-0094"
   },
   {
@@ -17062,6 +17332,7 @@
    "phrases": [],
    "en": "quarrel, row",
    "rank": 936,
+   "plural": "ruzies",
    "lesson": "l-0094"
   },
   {
@@ -17079,6 +17350,7 @@
    "phrases": [],
    "en": "winter",
    "rank": 937,
+   "plural": "winters",
    "lesson": "l-0094"
   },
   {
@@ -17257,6 +17529,7 @@
    "phrases": [],
    "en": "euro",
    "rank": 947,
+   "plural": "euro's",
    "lesson": "l-0095"
   },
   {
@@ -17367,6 +17640,7 @@
    "phrases": [],
    "en": "per cent",
    "rank": 953,
+   "plural": "procenten",
    "lesson": "l-0095"
   },
   {
@@ -17447,6 +17721,7 @@
    "phrases": [],
    "en": "minister",
    "rank": 957,
+   "plural": "ministers",
    "lesson": "l-0096"
   },
   {
@@ -17489,6 +17764,7 @@
    "phrases": [],
    "en": "municipality",
    "rank": 959,
+   "plural": "gemeenten",
    "lesson": "l-0096"
   },
   {
@@ -17544,6 +17820,7 @@
    "phrases": [],
    "en": "match",
    "rank": 962,
+   "plural": "wedstrijden",
    "lesson": "l-0096"
   },
   {
@@ -17561,6 +17838,7 @@
    "phrases": [],
    "en": "season",
    "rank": 963,
+   "plural": "seizoenen",
    "lesson": "l-0096"
   },
   {
@@ -17641,6 +17919,7 @@
    "phrases": [],
    "en": "chairman, chair",
    "rank": 967,
+   "plural": "voorzitters",
    "lesson": "l-0097"
   },
   {
@@ -17730,6 +18009,7 @@
    "phrases": [],
    "en": "team",
    "rank": 972,
+   "plural": "ploegen",
    "lesson": "l-0097"
   },
   {
@@ -17751,6 +18031,7 @@
    "phrases": [],
    "en": "government",
    "rank": 973,
+   "plural": "regeringen",
    "lesson": "l-0097"
   },
   {
@@ -17915,6 +18196,7 @@
    "phrases": [],
    "en": "Friday",
    "rank": 981,
+   "plural": "vrijdagen",
    "lesson": "l-0098"
   },
   {
@@ -17932,6 +18214,7 @@
    "phrases": [],
    "en": "organization",
    "rank": 982,
+   "plural": "organisaties",
    "lesson": "l-0098"
   },
   {
@@ -17949,6 +18232,7 @@
    "phrases": [],
    "en": "player",
    "rank": 983,
+   "plural": "spelers",
    "lesson": "l-0098"
   },
   {
@@ -18042,6 +18326,7 @@
    "phrases": [],
    "en": "action",
    "rank": 988,
+   "plural": "acties",
    "lesson": "l-0099"
   },
   {
@@ -18059,6 +18344,7 @@
    "phrases": [],
    "en": "club",
    "rank": 989,
+   "plural": "clubs",
    "lesson": "l-0099"
   },
   {
@@ -18076,6 +18362,7 @@
    "phrases": [],
    "en": "mayor",
    "rank": 990,
+   "plural": "burgemeesters",
    "lesson": "l-0099"
   },
   {
@@ -18093,6 +18380,7 @@
    "phrases": [],
    "en": "start",
    "rank": 991,
+   "plural": "starts",
    "lesson": "l-0099"
   },
   {
@@ -18110,6 +18398,7 @@
    "phrases": [],
    "en": "government",
    "rank": 992,
+   "plural": "overheden",
    "lesson": "l-0099"
   },
   {
@@ -18131,6 +18420,7 @@
    "phrases": [],
    "en": "region",
    "rank": 993,
+   "plural": "regio's",
    "lesson": "l-0099"
   },
   {
@@ -18211,6 +18501,7 @@
    "phrases": [],
    "en": "resident, inhabitant",
    "rank": 997,
+   "plural": "inwoners",
    "lesson": "l-0100"
   },
   {
@@ -18249,6 +18540,7 @@
    "phrases": [],
    "en": "Monday",
    "rank": 999,
+   "plural": "maandagen",
    "lesson": "l-0100"
   },
   {
@@ -18274,6 +18566,7 @@
    "phrases": [],
    "en": "figure, number",
    "rank": 1000,
+   "plural": "cijfers",
    "lesson": "l-0100"
   }
  ],

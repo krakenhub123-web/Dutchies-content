@@ -1,0 +1,2602 @@
+{
+ "id": "grammatik",
+ "title": "Grammatik: Zeiten und Präpositionen",
+ "description": "Gepflegte Verbformen für den Zeiten-Trainer und Lückensätze für den Präpositionstrainer.",
+ "lessons": [],
+ "tenses": [
+  {
+   "id": "t-0001",
+   "inf": "zijn",
+   "de": "sein",
+   "pres": [
+    "ben",
+    "bent",
+    "is",
+    "zijn"
+   ],
+   "past": [
+    "was",
+    "waren"
+   ],
+   "part": "geweest",
+   "aux": "zijn",
+   "obj": "moe"
+  },
+  {
+   "id": "t-0002",
+   "inf": "hebben",
+   "de": "haben",
+   "pres": [
+    "heb",
+    "hebt",
+    "heeft",
+    "hebben"
+   ],
+   "past": [
+    "had",
+    "hadden"
+   ],
+   "part": "gehad",
+   "aux": "hebben",
+   "obj": "geluk"
+  },
+  {
+   "id": "t-0003",
+   "inf": "gaan",
+   "de": "gehen",
+   "pres": [
+    "ga",
+    "gaat",
+    "gaat",
+    "gaan"
+   ],
+   "past": [
+    "ging",
+    "gingen"
+   ],
+   "part": "gegaan",
+   "aux": "zijn",
+   "obj": "naar huis"
+  },
+  {
+   "id": "t-0004",
+   "inf": "komen",
+   "de": "kommen",
+   "pres": [
+    "kom",
+    "komt",
+    "komt",
+    "komen"
+   ],
+   "past": [
+    "kwam",
+    "kwamen"
+   ],
+   "part": "gekomen",
+   "aux": "zijn",
+   "obj": "te laat"
+  },
+  {
+   "id": "t-0005",
+   "inf": "doen",
+   "de": "tun, machen",
+   "pres": [
+    "doe",
+    "doet",
+    "doet",
+    "doen"
+   ],
+   "past": [
+    "deed",
+    "deden"
+   ],
+   "part": "gedaan",
+   "aux": "hebben",
+   "obj": "boodschappen"
+  },
+  {
+   "id": "t-0006",
+   "inf": "zien",
+   "de": "sehen",
+   "pres": [
+    "zie",
+    "ziet",
+    "ziet",
+    "zien"
+   ],
+   "past": [
+    "zag",
+    "zagen"
+   ],
+   "part": "gezien",
+   "aux": "hebben",
+   "obj": "de film"
+  },
+  {
+   "id": "t-0007",
+   "inf": "staan",
+   "de": "stehen",
+   "pres": [
+    "sta",
+    "staat",
+    "staat",
+    "staan"
+   ],
+   "past": [
+    "stond",
+    "stonden"
+   ],
+   "part": "gestaan",
+   "aux": "hebben",
+   "obj": "bij de deur"
+  },
+  {
+   "id": "t-0008",
+   "inf": "liggen",
+   "de": "liegen",
+   "pres": [
+    "lig",
+    "ligt",
+    "ligt",
+    "liggen"
+   ],
+   "past": [
+    "lag",
+    "lagen"
+   ],
+   "part": "gelegen",
+   "aux": "hebben",
+   "obj": "in bed"
+  },
+  {
+   "id": "t-0009",
+   "inf": "zitten",
+   "de": "sitzen",
+   "pres": [
+    "zit",
+    "zit",
+    "zit",
+    "zitten"
+   ],
+   "past": [
+    "zat",
+    "zaten"
+   ],
+   "part": "gezeten",
+   "aux": "hebben",
+   "obj": "op de bank"
+  },
+  {
+   "id": "t-0010",
+   "inf": "geven",
+   "de": "geben",
+   "pres": [
+    "geef",
+    "geeft",
+    "geeft",
+    "geven"
+   ],
+   "past": [
+    "gaf",
+    "gaven"
+   ],
+   "part": "gegeven",
+   "aux": "hebben",
+   "obj": "een cadeau"
+  },
+  {
+   "id": "t-0011",
+   "inf": "nemen",
+   "de": "nehmen",
+   "pres": [
+    "neem",
+    "neemt",
+    "neemt",
+    "nemen"
+   ],
+   "past": [
+    "nam",
+    "namen"
+   ],
+   "part": "genomen",
+   "aux": "hebben",
+   "obj": "de trein"
+  },
+  {
+   "id": "t-0012",
+   "inf": "krijgen",
+   "de": "bekommen",
+   "pres": [
+    "krijg",
+    "krijgt",
+    "krijgt",
+    "krijgen"
+   ],
+   "past": [
+    "kreeg",
+    "kregen"
+   ],
+   "part": "gekregen",
+   "aux": "hebben",
+   "obj": "een brief"
+  },
+  {
+   "id": "t-0013",
+   "inf": "vinden",
+   "de": "finden",
+   "pres": [
+    "vind",
+    "vindt",
+    "vindt",
+    "vinden"
+   ],
+   "past": [
+    "vond",
+    "vonden"
+   ],
+   "part": "gevonden",
+   "aux": "hebben",
+   "obj": "de sleutel"
+  },
+  {
+   "id": "t-0014",
+   "inf": "weten",
+   "de": "wissen",
+   "pres": [
+    "weet",
+    "weet",
+    "weet",
+    "weten"
+   ],
+   "past": [
+    "wist",
+    "wisten"
+   ],
+   "part": "geweten",
+   "aux": "hebben",
+   "obj": "het antwoord"
+  },
+  {
+   "id": "t-0015",
+   "inf": "lopen",
+   "de": "laufen, gehen",
+   "pres": [
+    "loop",
+    "loopt",
+    "loopt",
+    "lopen"
+   ],
+   "past": [
+    "liep",
+    "liepen"
+   ],
+   "part": "gelopen",
+   "aux": "zijn|hebben",
+   "obj": "naar het station"
+  },
+  {
+   "id": "t-0016",
+   "inf": "rijden",
+   "de": "fahren",
+   "pres": [
+    "rijd",
+    "rijdt",
+    "rijdt",
+    "rijden"
+   ],
+   "past": [
+    "reed",
+    "reden"
+   ],
+   "part": "gereden",
+   "aux": "zijn|hebben",
+   "obj": "naar Amsterdam"
+  },
+  {
+   "id": "t-0017",
+   "inf": "schrijven",
+   "de": "schreiben",
+   "pres": [
+    "schrijf",
+    "schrijft",
+    "schrijft",
+    "schrijven"
+   ],
+   "past": [
+    "schreef",
+    "schreven"
+   ],
+   "part": "geschreven",
+   "aux": "hebben",
+   "obj": "een brief"
+  },
+  {
+   "id": "t-0018",
+   "inf": "lezen",
+   "de": "lesen",
+   "pres": [
+    "lees",
+    "leest",
+    "leest",
+    "lezen"
+   ],
+   "past": [
+    "las",
+    "lazen"
+   ],
+   "part": "gelezen",
+   "aux": "hebben",
+   "obj": "de krant"
+  },
+  {
+   "id": "t-0019",
+   "inf": "spreken",
+   "de": "sprechen",
+   "pres": [
+    "spreek",
+    "spreekt",
+    "spreekt",
+    "spreken"
+   ],
+   "past": [
+    "sprak",
+    "spraken"
+   ],
+   "part": "gesproken",
+   "aux": "hebben",
+   "obj": "Nederlands"
+  },
+  {
+   "id": "t-0020",
+   "inf": "drinken",
+   "de": "trinken",
+   "pres": [
+    "drink",
+    "drinkt",
+    "drinkt",
+    "drinken"
+   ],
+   "past": [
+    "dronk",
+    "dronken"
+   ],
+   "part": "gedronken",
+   "aux": "hebben",
+   "obj": "koffie"
+  },
+  {
+   "id": "t-0021",
+   "inf": "eten",
+   "de": "essen",
+   "pres": [
+    "eet",
+    "eet",
+    "eet",
+    "eten"
+   ],
+   "past": [
+    "at",
+    "aten"
+   ],
+   "part": "gegeten",
+   "aux": "hebben",
+   "obj": "een appel"
+  },
+  {
+   "id": "t-0022",
+   "inf": "slapen",
+   "de": "schlafen",
+   "pres": [
+    "slaap",
+    "slaapt",
+    "slaapt",
+    "slapen"
+   ],
+   "past": [
+    "sliep",
+    "sliepen"
+   ],
+   "part": "geslapen",
+   "aux": "hebben",
+   "obj": "lang"
+  },
+  {
+   "id": "t-0023",
+   "inf": "vallen",
+   "de": "fallen",
+   "pres": [
+    "val",
+    "valt",
+    "valt",
+    "vallen"
+   ],
+   "past": [
+    "viel",
+    "vielen"
+   ],
+   "part": "gevallen",
+   "aux": "zijn",
+   "obj": "van de trap"
+  },
+  {
+   "id": "t-0024",
+   "inf": "houden",
+   "de": "lieben, halten",
+   "pres": [
+    "houd|hou",
+    "houdt",
+    "houdt",
+    "houden"
+   ],
+   "past": [
+    "hield",
+    "hielden"
+   ],
+   "part": "gehouden",
+   "aux": "hebben",
+   "obj": "van muziek"
+  },
+  {
+   "id": "t-0025",
+   "inf": "helpen",
+   "de": "helfen",
+   "pres": [
+    "help",
+    "helpt",
+    "helpt",
+    "helpen"
+   ],
+   "past": [
+    "hielp",
+    "hielpen"
+   ],
+   "part": "geholpen",
+   "aux": "hebben",
+   "obj": "de buurman"
+  },
+  {
+   "id": "t-0026",
+   "inf": "beginnen",
+   "de": "beginnen",
+   "pres": [
+    "begin",
+    "begint",
+    "begint",
+    "beginnen"
+   ],
+   "past": [
+    "begon",
+    "begonnen"
+   ],
+   "part": "begonnen",
+   "aux": "zijn",
+   "obj": "met de les"
+  },
+  {
+   "id": "t-0027",
+   "inf": "blijven",
+   "de": "bleiben",
+   "pres": [
+    "blijf",
+    "blijft",
+    "blijft",
+    "blijven"
+   ],
+   "past": [
+    "bleef",
+    "bleven"
+   ],
+   "part": "gebleven",
+   "aux": "zijn",
+   "obj": "thuis"
+  },
+  {
+   "id": "t-0028",
+   "inf": "worden",
+   "de": "werden",
+   "pres": [
+    "word",
+    "wordt",
+    "wordt",
+    "worden"
+   ],
+   "past": [
+    "werd",
+    "werden"
+   ],
+   "part": "geworden",
+   "aux": "zijn",
+   "obj": "boos"
+  },
+  {
+   "id": "t-0029",
+   "inf": "vergeten",
+   "de": "vergessen",
+   "pres": [
+    "vergeet",
+    "vergeet",
+    "vergeet",
+    "vergeten"
+   ],
+   "past": [
+    "vergat",
+    "vergaten"
+   ],
+   "part": "vergeten",
+   "aux": "hebben|zijn",
+   "obj": "de afspraak"
+  },
+  {
+   "id": "t-0030",
+   "inf": "verliezen",
+   "de": "verlieren",
+   "pres": [
+    "verlies",
+    "verliest",
+    "verliest",
+    "verliezen"
+   ],
+   "past": [
+    "verloor",
+    "verloren"
+   ],
+   "part": "verloren",
+   "aux": "hebben",
+   "obj": "de wedstrijd"
+  },
+  {
+   "id": "t-0031",
+   "inf": "winnen",
+   "de": "gewinnen",
+   "pres": [
+    "win",
+    "wint",
+    "wint",
+    "winnen"
+   ],
+   "past": [
+    "won",
+    "wonnen"
+   ],
+   "part": "gewonnen",
+   "aux": "hebben",
+   "obj": "de wedstrijd"
+  },
+  {
+   "id": "t-0032",
+   "inf": "zingen",
+   "de": "singen",
+   "pres": [
+    "zing",
+    "zingt",
+    "zingt",
+    "zingen"
+   ],
+   "past": [
+    "zong",
+    "zongen"
+   ],
+   "part": "gezongen",
+   "aux": "hebben",
+   "obj": "een lied"
+  },
+  {
+   "id": "t-0033",
+   "inf": "zwemmen",
+   "de": "schwimmen",
+   "pres": [
+    "zwem",
+    "zwemt",
+    "zwemt",
+    "zwemmen"
+   ],
+   "past": [
+    "zwom",
+    "zwommen"
+   ],
+   "part": "gezwommen",
+   "aux": "hebben",
+   "obj": "in de zee"
+  },
+  {
+   "id": "t-0034",
+   "inf": "vliegen",
+   "de": "fliegen",
+   "pres": [
+    "vlieg",
+    "vliegt",
+    "vliegt",
+    "vliegen"
+   ],
+   "past": [
+    "vloog",
+    "vlogen"
+   ],
+   "part": "gevlogen",
+   "aux": "zijn|hebben",
+   "obj": "naar Spanje"
+  },
+  {
+   "id": "t-0035",
+   "inf": "kijken",
+   "de": "schauen",
+   "pres": [
+    "kijk",
+    "kijkt",
+    "kijkt",
+    "kijken"
+   ],
+   "past": [
+    "keek",
+    "keken"
+   ],
+   "part": "gekeken",
+   "aux": "hebben",
+   "obj": "televisie"
+  },
+  {
+   "id": "t-0036",
+   "inf": "roepen",
+   "de": "rufen",
+   "pres": [
+    "roep",
+    "roept",
+    "roept",
+    "roepen"
+   ],
+   "past": [
+    "riep",
+    "riepen"
+   ],
+   "part": "geroepen",
+   "aux": "hebben",
+   "obj": "de hond"
+  },
+  {
+   "id": "t-0037",
+   "inf": "dragen",
+   "de": "tragen",
+   "pres": [
+    "draag",
+    "draagt",
+    "draagt",
+    "dragen"
+   ],
+   "past": [
+    "droeg",
+    "droegen"
+   ],
+   "part": "gedragen",
+   "aux": "hebben",
+   "obj": "een jas"
+  },
+  {
+   "id": "t-0038",
+   "inf": "slaan",
+   "de": "schlagen",
+   "pres": [
+    "sla",
+    "slaat",
+    "slaat",
+    "slaan"
+   ],
+   "past": [
+    "sloeg",
+    "sloegen"
+   ],
+   "part": "geslagen",
+   "aux": "hebben",
+   "obj": "de bal"
+  },
+  {
+   "id": "t-0039",
+   "inf": "trekken",
+   "de": "ziehen",
+   "pres": [
+    "trek",
+    "trekt",
+    "trekt",
+    "trekken"
+   ],
+   "past": [
+    "trok",
+    "trokken"
+   ],
+   "part": "getrokken",
+   "aux": "hebben",
+   "obj": "aan het touw"
+  },
+  {
+   "id": "t-0040",
+   "inf": "kiezen",
+   "de": "wählen",
+   "pres": [
+    "kies",
+    "kiest",
+    "kiest",
+    "kiezen"
+   ],
+   "past": [
+    "koos",
+    "kozen"
+   ],
+   "part": "gekozen",
+   "aux": "hebben",
+   "obj": "een boek"
+  },
+  {
+   "id": "t-0041",
+   "inf": "sluiten",
+   "de": "schließen",
+   "pres": [
+    "sluit",
+    "sluit",
+    "sluit",
+    "sluiten"
+   ],
+   "past": [
+    "sloot",
+    "sloten"
+   ],
+   "part": "gesloten",
+   "aux": "hebben",
+   "obj": "het raam"
+  },
+  {
+   "id": "t-0042",
+   "inf": "schieten",
+   "de": "schießen",
+   "pres": [
+    "schiet",
+    "schiet",
+    "schiet",
+    "schieten"
+   ],
+   "past": [
+    "schoot",
+    "schoten"
+   ],
+   "part": "geschoten",
+   "aux": "hebben",
+   "obj": "op het doel"
+  },
+  {
+   "id": "t-0043",
+   "inf": "bieden",
+   "de": "bieten",
+   "pres": [
+    "bied",
+    "biedt",
+    "biedt",
+    "bieden"
+   ],
+   "past": [
+    "bood",
+    "boden"
+   ],
+   "part": "geboden",
+   "aux": "hebben",
+   "obj": "hulp"
+  },
+  {
+   "id": "t-0044",
+   "inf": "liegen",
+   "de": "lügen",
+   "pres": [
+    "lieg",
+    "liegt",
+    "liegt",
+    "liegen"
+   ],
+   "past": [
+    "loog",
+    "logen"
+   ],
+   "part": "gelogen",
+   "aux": "hebben",
+   "obj": "tegen de leraar"
+  },
+  {
+   "id": "t-0045",
+   "inf": "vergelijken",
+   "de": "vergleichen",
+   "pres": [
+    "vergelijk",
+    "vergelijkt",
+    "vergelijkt",
+    "vergelijken"
+   ],
+   "past": [
+    "vergeleek",
+    "vergeleken"
+   ],
+   "part": "vergeleken",
+   "aux": "hebben",
+   "obj": "de prijzen"
+  },
+  {
+   "id": "t-0046",
+   "inf": "begrijpen",
+   "de": "verstehen",
+   "pres": [
+    "begrijp",
+    "begrijpt",
+    "begrijpt",
+    "begrijpen"
+   ],
+   "past": [
+    "begreep",
+    "begrepen"
+   ],
+   "part": "begrepen",
+   "aux": "hebben",
+   "obj": "de vraag"
+  },
+  {
+   "id": "t-0047",
+   "inf": "verdwijnen",
+   "de": "verschwinden",
+   "pres": [
+    "verdwijn",
+    "verdwijnt",
+    "verdwijnt",
+    "verdwijnen"
+   ],
+   "past": [
+    "verdween",
+    "verdwenen"
+   ],
+   "part": "verdwenen",
+   "aux": "zijn",
+   "obj": "plotseling"
+  },
+  {
+   "id": "t-0048",
+   "inf": "hangen",
+   "de": "hängen",
+   "pres": [
+    "hang",
+    "hangt",
+    "hangt",
+    "hangen"
+   ],
+   "past": [
+    "hing",
+    "hingen"
+   ],
+   "part": "gehangen",
+   "aux": "hebben",
+   "obj": "de jas aan de kapstok"
+  },
+  {
+   "id": "t-0049",
+   "inf": "snijden",
+   "de": "schneiden",
+   "pres": [
+    "snijd",
+    "snijdt",
+    "snijdt",
+    "snijden"
+   ],
+   "past": [
+    "sneed",
+    "sneden"
+   ],
+   "part": "gesneden",
+   "aux": "hebben",
+   "obj": "het brood"
+  },
+  {
+   "id": "t-0050",
+   "inf": "wijzen",
+   "de": "zeigen",
+   "pres": [
+    "wijs",
+    "wijst",
+    "wijst",
+    "wijzen"
+   ],
+   "past": [
+    "wees",
+    "wezen"
+   ],
+   "part": "gewezen",
+   "aux": "hebben",
+   "obj": "naar de kaart"
+  },
+  {
+   "id": "t-0051",
+   "inf": "vangen",
+   "de": "fangen",
+   "pres": [
+    "vang",
+    "vangt",
+    "vangt",
+    "vangen"
+   ],
+   "past": [
+    "ving",
+    "vingen"
+   ],
+   "part": "gevangen",
+   "aux": "hebben",
+   "obj": "de bal"
+  },
+  {
+   "id": "t-0052",
+   "inf": "stelen",
+   "de": "stehlen",
+   "pres": [
+    "steel",
+    "steelt",
+    "steelt",
+    "stelen"
+   ],
+   "past": [
+    "stal",
+    "stalen"
+   ],
+   "part": "gestolen",
+   "aux": "hebben",
+   "obj": "een fiets"
+  },
+  {
+   "id": "t-0053",
+   "inf": "breken",
+   "de": "brechen",
+   "pres": [
+    "breek",
+    "breekt",
+    "breekt",
+    "breken"
+   ],
+   "past": [
+    "brak",
+    "braken"
+   ],
+   "part": "gebroken",
+   "aux": "hebben",
+   "obj": "een glas"
+  },
+  {
+   "id": "t-0054",
+   "inf": "vechten",
+   "de": "kämpfen",
+   "pres": [
+    "vecht",
+    "vecht",
+    "vecht",
+    "vechten"
+   ],
+   "past": [
+    "vocht",
+    "vochten"
+   ],
+   "part": "gevochten",
+   "aux": "hebben",
+   "obj": "voor vrede"
+  },
+  {
+   "id": "t-0055",
+   "inf": "springen",
+   "de": "springen",
+   "pres": [
+    "spring",
+    "springt",
+    "springt",
+    "springen"
+   ],
+   "past": [
+    "sprong",
+    "sprongen"
+   ],
+   "part": "gesprongen",
+   "aux": "hebben|zijn",
+   "obj": "in het water"
+  },
+  {
+   "id": "t-0056",
+   "inf": "verbieden",
+   "de": "verbieten",
+   "pres": [
+    "verbied",
+    "verbiedt",
+    "verbiedt",
+    "verbieden"
+   ],
+   "past": [
+    "verbood",
+    "verboden"
+   ],
+   "part": "verboden",
+   "aux": "hebben",
+   "obj": "het roken"
+  },
+  {
+   "id": "t-0057",
+   "inf": "genieten",
+   "de": "genießen",
+   "pres": [
+    "geniet",
+    "geniet",
+    "geniet",
+    "genieten"
+   ],
+   "past": [
+    "genoot",
+    "genoten"
+   ],
+   "part": "genoten",
+   "aux": "hebben",
+   "obj": "van de zon"
+  },
+  {
+   "id": "t-0058",
+   "inf": "zwijgen",
+   "de": "schweigen",
+   "pres": [
+    "zwijg",
+    "zwijgt",
+    "zwijgt",
+    "zwijgen"
+   ],
+   "past": [
+    "zweeg",
+    "zwegen"
+   ],
+   "part": "gezwegen",
+   "aux": "hebben",
+   "obj": "de hele dag"
+  },
+  {
+   "id": "t-0059",
+   "inf": "zoeken",
+   "de": "suchen",
+   "pres": [
+    "zoek",
+    "zoekt",
+    "zoekt",
+    "zoeken"
+   ],
+   "past": [
+    "zocht",
+    "zochten"
+   ],
+   "part": "gezocht",
+   "aux": "hebben",
+   "obj": "de sleutels"
+  },
+  {
+   "id": "t-0060",
+   "inf": "kopen",
+   "de": "kaufen",
+   "pres": [
+    "koop",
+    "koopt",
+    "koopt",
+    "kopen"
+   ],
+   "past": [
+    "kocht",
+    "kochten"
+   ],
+   "part": "gekocht",
+   "aux": "hebben",
+   "obj": "brood"
+  },
+  {
+   "id": "t-0061",
+   "inf": "denken",
+   "de": "denken",
+   "pres": [
+    "denk",
+    "denkt",
+    "denkt",
+    "denken"
+   ],
+   "past": [
+    "dacht",
+    "dachten"
+   ],
+   "part": "gedacht",
+   "aux": "hebben",
+   "obj": "aan de vakantie"
+  },
+  {
+   "id": "t-0062",
+   "inf": "brengen",
+   "de": "bringen",
+   "pres": [
+    "breng",
+    "brengt",
+    "brengt",
+    "brengen"
+   ],
+   "past": [
+    "bracht",
+    "brachten"
+   ],
+   "part": "gebracht",
+   "aux": "hebben",
+   "obj": "de kinderen naar school"
+  },
+  {
+   "id": "t-0063",
+   "inf": "vragen",
+   "de": "fragen",
+   "pres": [
+    "vraag",
+    "vraagt",
+    "vraagt",
+    "vragen"
+   ],
+   "past": [
+    "vroeg",
+    "vroegen"
+   ],
+   "part": "gevraagd",
+   "aux": "hebben",
+   "obj": "de weg"
+  },
+  {
+   "id": "t-0064",
+   "inf": "zeggen",
+   "de": "sagen",
+   "pres": [
+    "zeg",
+    "zegt",
+    "zegt",
+    "zeggen"
+   ],
+   "past": [
+    "zei",
+    "zeiden"
+   ],
+   "part": "gezegd",
+   "aux": "hebben",
+   "obj": "niets"
+  },
+  {
+   "id": "t-0065",
+   "inf": "lachen",
+   "de": "lachen",
+   "pres": [
+    "lach",
+    "lacht",
+    "lacht",
+    "lachen"
+   ],
+   "past": [
+    "lachte",
+    "lachten"
+   ],
+   "part": "gelachen",
+   "aux": "hebben",
+   "obj": "om de grap"
+  },
+  {
+   "id": "t-0066",
+   "inf": "bakken",
+   "de": "backen",
+   "pres": [
+    "bak",
+    "bakt",
+    "bakt",
+    "bakken"
+   ],
+   "past": [
+    "bakte",
+    "bakten"
+   ],
+   "part": "gebakken",
+   "aux": "hebben",
+   "obj": "een taart"
+  },
+  {
+   "id": "t-0067",
+   "inf": "wassen",
+   "de": "waschen",
+   "pres": [
+    "was",
+    "wast",
+    "wast",
+    "wassen"
+   ],
+   "past": [
+    "waste",
+    "wasten"
+   ],
+   "part": "gewassen",
+   "aux": "hebben",
+   "obj": "de auto"
+  },
+  {
+   "id": "t-0068",
+   "inf": "werken",
+   "de": "arbeiten",
+   "pres": [
+    "werk",
+    "werkt",
+    "werkt",
+    "werken"
+   ],
+   "past": [
+    "werkte",
+    "werkten"
+   ],
+   "part": "gewerkt",
+   "aux": "hebben",
+   "obj": "vandaag"
+  },
+  {
+   "id": "t-0069",
+   "inf": "wonen",
+   "de": "wohnen",
+   "pres": [
+    "woon",
+    "woont",
+    "woont",
+    "wonen"
+   ],
+   "past": [
+    "woonde",
+    "woonden"
+   ],
+   "part": "gewoond",
+   "aux": "hebben",
+   "obj": "in Utrecht"
+  },
+  {
+   "id": "t-0070",
+   "inf": "maken",
+   "de": "machen",
+   "pres": [
+    "maak",
+    "maakt",
+    "maakt",
+    "maken"
+   ],
+   "past": [
+    "maakte",
+    "maakten"
+   ],
+   "part": "gemaakt",
+   "aux": "hebben",
+   "obj": "het huiswerk"
+  },
+  {
+   "id": "t-0071",
+   "inf": "leren",
+   "de": "lernen",
+   "pres": [
+    "leer",
+    "leert",
+    "leert",
+    "leren"
+   ],
+   "past": [
+    "leerde",
+    "leerden"
+   ],
+   "part": "geleerd",
+   "aux": "hebben",
+   "obj": "Nederlands"
+  },
+  {
+   "id": "t-0072",
+   "inf": "spelen",
+   "de": "spielen",
+   "pres": [
+    "speel",
+    "speelt",
+    "speelt",
+    "spelen"
+   ],
+   "past": [
+    "speelde",
+    "speelden"
+   ],
+   "part": "gespeeld",
+   "aux": "hebben",
+   "obj": "voetbal"
+  },
+  {
+   "id": "t-0073",
+   "inf": "praten",
+   "de": "reden",
+   "pres": [
+    "praat",
+    "praat",
+    "praat",
+    "praten"
+   ],
+   "past": [
+    "praatte",
+    "praatten"
+   ],
+   "part": "gepraat",
+   "aux": "hebben",
+   "obj": "met de buren"
+  },
+  {
+   "id": "t-0074",
+   "inf": "koken",
+   "de": "kochen",
+   "pres": [
+    "kook",
+    "kookt",
+    "kookt",
+    "koken"
+   ],
+   "past": [
+    "kookte",
+    "kookten"
+   ],
+   "part": "gekookt",
+   "aux": "hebben",
+   "obj": "het eten"
+  },
+  {
+   "id": "t-0075",
+   "inf": "wachten",
+   "de": "warten",
+   "pres": [
+    "wacht",
+    "wacht",
+    "wacht",
+    "wachten"
+   ],
+   "past": [
+    "wachtte",
+    "wachtten"
+   ],
+   "part": "gewacht",
+   "aux": "hebben",
+   "obj": "op de bus"
+  },
+  {
+   "id": "t-0076",
+   "inf": "antwoorden",
+   "de": "antworten",
+   "pres": [
+    "antwoord",
+    "antwoordt",
+    "antwoordt",
+    "antwoorden"
+   ],
+   "past": [
+    "antwoordde",
+    "antwoordden"
+   ],
+   "part": "geantwoord",
+   "aux": "hebben",
+   "obj": "op de vraag"
+  },
+  {
+   "id": "t-0077",
+   "inf": "betalen",
+   "de": "bezahlen",
+   "pres": [
+    "betaal",
+    "betaalt",
+    "betaalt",
+    "betalen"
+   ],
+   "past": [
+    "betaalde",
+    "betaalden"
+   ],
+   "part": "betaald",
+   "aux": "hebben",
+   "obj": "de rekening"
+  },
+  {
+   "id": "t-0078",
+   "inf": "proberen",
+   "de": "versuchen",
+   "pres": [
+    "probeer",
+    "probeert",
+    "probeert",
+    "proberen"
+   ],
+   "past": [
+    "probeerde",
+    "probeerden"
+   ],
+   "part": "geprobeerd",
+   "aux": "hebben",
+   "obj": "het opnieuw"
+  },
+  {
+   "id": "t-0079",
+   "inf": "gebruiken",
+   "de": "benutzen",
+   "pres": [
+    "gebruik",
+    "gebruikt",
+    "gebruikt",
+    "gebruiken"
+   ],
+   "past": [
+    "gebruikte",
+    "gebruikten"
+   ],
+   "part": "gebruikt",
+   "aux": "hebben",
+   "obj": "de computer"
+  },
+  {
+   "id": "t-0080",
+   "inf": "horen",
+   "de": "hören",
+   "pres": [
+    "hoor",
+    "hoort",
+    "hoort",
+    "horen"
+   ],
+   "past": [
+    "hoorde",
+    "hoorden"
+   ],
+   "part": "gehoord",
+   "aux": "hebben",
+   "obj": "de muziek"
+  },
+  {
+   "id": "t-0081",
+   "inf": "luisteren",
+   "de": "zuhören",
+   "pres": [
+    "luister",
+    "luistert",
+    "luistert",
+    "luisteren"
+   ],
+   "past": [
+    "luisterde",
+    "luisterden"
+   ],
+   "part": "geluisterd",
+   "aux": "hebben",
+   "obj": "naar de radio"
+  },
+  {
+   "id": "t-0082",
+   "inf": "bellen",
+   "de": "anrufen",
+   "pres": [
+    "bel",
+    "belt",
+    "belt",
+    "bellen"
+   ],
+   "past": [
+    "belde",
+    "belden"
+   ],
+   "part": "gebeld",
+   "aux": "hebben",
+   "obj": "de dokter"
+  },
+  {
+   "id": "t-0083",
+   "inf": "stoppen",
+   "de": "aufhören",
+   "pres": [
+    "stop",
+    "stopt",
+    "stopt",
+    "stoppen"
+   ],
+   "past": [
+    "stopte",
+    "stopten"
+   ],
+   "part": "gestopt",
+   "aux": "zijn|hebben",
+   "obj": "met roken"
+  },
+  {
+   "id": "t-0084",
+   "inf": "dansen",
+   "de": "tanzen",
+   "pres": [
+    "dans",
+    "danst",
+    "danst",
+    "dansen"
+   ],
+   "past": [
+    "danste",
+    "dansten"
+   ],
+   "part": "gedanst",
+   "aux": "hebben",
+   "obj": "de hele avond"
+  },
+  {
+   "id": "t-0085",
+   "inf": "studeren",
+   "de": "studieren",
+   "pres": [
+    "studeer",
+    "studeert",
+    "studeert",
+    "studeren"
+   ],
+   "past": [
+    "studeerde",
+    "studeerden"
+   ],
+   "part": "gestudeerd",
+   "aux": "hebben",
+   "obj": "in Leiden"
+  },
+  {
+   "id": "t-0086",
+   "inf": "fietsen",
+   "de": "Rad fahren",
+   "pres": [
+    "fiets",
+    "fietst",
+    "fietst",
+    "fietsen"
+   ],
+   "past": [
+    "fietste",
+    "fietsten"
+   ],
+   "part": "gefietst",
+   "aux": "zijn|hebben",
+   "obj": "naar school"
+  },
+  {
+   "id": "t-0087",
+   "inf": "reizen",
+   "de": "reisen",
+   "pres": [
+    "reis",
+    "reist",
+    "reist",
+    "reizen"
+   ],
+   "past": [
+    "reisde",
+    "reisden"
+   ],
+   "part": "gereisd",
+   "aux": "hebben|zijn",
+   "obj": "door Europa"
+  },
+  {
+   "id": "t-0088",
+   "inf": "verhuizen",
+   "de": "umziehen",
+   "pres": [
+    "verhuis",
+    "verhuist",
+    "verhuist",
+    "verhuizen"
+   ],
+   "past": [
+    "verhuisde",
+    "verhuisden"
+   ],
+   "part": "verhuisd",
+   "aux": "zijn",
+   "obj": "naar Amsterdam"
+  },
+  {
+   "id": "t-0089",
+   "inf": "missen",
+   "de": "verpassen, vermissen",
+   "pres": [
+    "mis",
+    "mist",
+    "mist",
+    "missen"
+   ],
+   "past": [
+    "miste",
+    "misten"
+   ],
+   "part": "gemist",
+   "aux": "hebben",
+   "obj": "de trein"
+  },
+  {
+   "id": "t-0090",
+   "inf": "zetten",
+   "de": "setzen, stellen",
+   "pres": [
+    "zet",
+    "zet",
+    "zet",
+    "zetten"
+   ],
+   "past": [
+    "zette",
+    "zetten"
+   ],
+   "part": "gezet",
+   "aux": "hebben",
+   "obj": "koffie"
+  },
+  {
+   "id": "t-0091",
+   "inf": "leven",
+   "de": "leben",
+   "pres": [
+    "leef",
+    "leeft",
+    "leeft",
+    "leven"
+   ],
+   "past": [
+    "leefde",
+    "leefden"
+   ],
+   "part": "geleefd",
+   "aux": "hebben",
+   "obj": "in Duitsland"
+  },
+  {
+   "id": "t-0092",
+   "inf": "geloven",
+   "de": "glauben",
+   "pres": [
+    "geloof",
+    "gelooft",
+    "gelooft",
+    "geloven"
+   ],
+   "past": [
+    "geloofde",
+    "geloofden"
+   ],
+   "part": "geloofd",
+   "aux": "hebben",
+   "obj": "het verhaal"
+  },
+  {
+   "id": "t-0093",
+   "inf": "hopen",
+   "de": "hoffen",
+   "pres": [
+    "hoop",
+    "hoopt",
+    "hoopt",
+    "hopen"
+   ],
+   "past": [
+    "hoopte",
+    "hoopten"
+   ],
+   "part": "gehoopt",
+   "aux": "hebben",
+   "obj": "op beter weer"
+  },
+  {
+   "id": "t-0094",
+   "inf": "huren",
+   "de": "mieten",
+   "pres": [
+    "huur",
+    "huurt",
+    "huurt",
+    "huren"
+   ],
+   "past": [
+    "huurde",
+    "huurden"
+   ],
+   "part": "gehuurd",
+   "aux": "hebben",
+   "obj": "een auto"
+  },
+  {
+   "id": "t-0095",
+   "inf": "openen",
+   "de": "öffnen",
+   "pres": [
+    "open",
+    "opent",
+    "opent",
+    "openen"
+   ],
+   "past": [
+    "opende",
+    "openden"
+   ],
+   "part": "geopend",
+   "aux": "hebben",
+   "obj": "de deur"
+  },
+  {
+   "id": "t-0096",
+   "inf": "sturen",
+   "de": "schicken",
+   "pres": [
+    "stuur",
+    "stuurt",
+    "stuurt",
+    "sturen"
+   ],
+   "past": [
+    "stuurde",
+    "stuurden"
+   ],
+   "part": "gestuurd",
+   "aux": "hebben",
+   "obj": "een bericht"
+  },
+  {
+   "id": "t-0097",
+   "inf": "vertellen",
+   "de": "erzählen",
+   "pres": [
+    "vertel",
+    "vertelt",
+    "vertelt",
+    "vertellen"
+   ],
+   "past": [
+    "vertelde",
+    "vertelden"
+   ],
+   "part": "verteld",
+   "aux": "hebben",
+   "obj": "een verhaal"
+  },
+  {
+   "id": "t-0098",
+   "inf": "verdienen",
+   "de": "verdienen",
+   "pres": [
+    "verdien",
+    "verdient",
+    "verdient",
+    "verdienen"
+   ],
+   "past": [
+    "verdiende",
+    "verdienden"
+   ],
+   "part": "verdiend",
+   "aux": "hebben",
+   "obj": "veel geld"
+  },
+  {
+   "id": "t-0099",
+   "inf": "herhalen",
+   "de": "wiederholen",
+   "pres": [
+    "herhaal",
+    "herhaalt",
+    "herhaalt",
+    "herhalen"
+   ],
+   "past": [
+    "herhaalde",
+    "herhaalden"
+   ],
+   "part": "herhaald",
+   "aux": "hebben",
+   "obj": "de vraag"
+  },
+  {
+   "id": "t-0100",
+   "inf": "wandelen",
+   "de": "spazieren gehen",
+   "pres": [
+    "wandel",
+    "wandelt",
+    "wandelt",
+    "wandelen"
+   ],
+   "past": [
+    "wandelde",
+    "wandelden"
+   ],
+   "part": "gewandeld",
+   "aux": "hebben",
+   "obj": "in het park"
+  },
+  {
+   "id": "t-0101",
+   "inf": "schilderen",
+   "de": "malen",
+   "pres": [
+    "schilder",
+    "schildert",
+    "schildert",
+    "schilderen"
+   ],
+   "past": [
+    "schilderde",
+    "schilderden"
+   ],
+   "part": "geschilderd",
+   "aux": "hebben",
+   "obj": "de muur"
+  },
+  {
+   "id": "t-0102",
+   "inf": "trouwen",
+   "de": "heiraten",
+   "pres": [
+    "trouw",
+    "trouwt",
+    "trouwt",
+    "trouwen"
+   ],
+   "past": [
+    "trouwde",
+    "trouwden"
+   ],
+   "part": "getrouwd",
+   "aux": "zijn",
+   "obj": "in mei"
+  },
+  {
+   "id": "t-0103",
+   "inf": "groeien",
+   "de": "wachsen",
+   "pres": [
+    "groei",
+    "groeit",
+    "groeit",
+    "groeien"
+   ],
+   "past": [
+    "groeide",
+    "groeiden"
+   ],
+   "part": "gegroeid",
+   "aux": "zijn",
+   "obj": "snel"
+  },
+  {
+   "id": "t-0104",
+   "inf": "verbeteren",
+   "de": "verbessern",
+   "pres": [
+    "verbeter",
+    "verbetert",
+    "verbetert",
+    "verbeteren"
+   ],
+   "past": [
+    "verbeterde",
+    "verbeterden"
+   ],
+   "part": "verbeterd",
+   "aux": "hebben",
+   "obj": "de tekst"
+  },
+  {
+   "id": "t-0105",
+   "inf": "volgen",
+   "de": "folgen",
+   "pres": [
+    "volg",
+    "volgt",
+    "volgt",
+    "volgen"
+   ],
+   "past": [
+    "volgde",
+    "volgden"
+   ],
+   "part": "gevolgd",
+   "aux": "hebben",
+   "obj": "een cursus"
+  },
+  {
+   "id": "t-0106",
+   "inf": "leggen",
+   "de": "legen",
+   "pres": [
+    "leg",
+    "legt",
+    "legt",
+    "leggen"
+   ],
+   "past": [
+    "legde",
+    "legden"
+   ],
+   "part": "gelegd",
+   "aux": "hebben",
+   "obj": "het boek op tafel"
+  }
+ ],
+ "prepositions": [
+  {
+   "id": "p-0001",
+   "nl": "Ik woon ___ Amsterdam.",
+   "answer": "in",
+   "de": "Ich wohne in Amsterdam."
+  },
+  {
+   "id": "p-0002",
+   "nl": "Het boek ligt ___ tafel.",
+   "answer": "op",
+   "de": "Das Buch liegt auf dem Tisch."
+  },
+  {
+   "id": "p-0003",
+   "nl": "Ik ga ___ school.",
+   "answer": "naar",
+   "de": "Ich gehe zur Schule."
+  },
+  {
+   "id": "p-0004",
+   "nl": "De foto hangt ___ de muur.",
+   "answer": "aan",
+   "de": "Das Foto hängt an der Wand."
+  },
+  {
+   "id": "p-0005",
+   "nl": "Ik kom ___ Duitsland.",
+   "answer": "uit",
+   "de": "Ich komme aus Deutschland."
+  },
+  {
+   "id": "p-0006",
+   "nl": "We gaan ___ de trein naar Utrecht.",
+   "answer": "met",
+   "de": "Wir fahren mit dem Zug nach Utrecht."
+  },
+  {
+   "id": "p-0007",
+   "nl": "De kat slaapt ___ het bed.",
+   "answer": "onder",
+   "de": "Die Katze schläft unter dem Bett."
+  },
+  {
+   "id": "p-0008",
+   "nl": "De lamp hangt ___ de tafel.",
+   "answer": "boven",
+   "de": "Die Lampe hängt über dem Tisch."
+  },
+  {
+   "id": "p-0009",
+   "nl": "Hij zit ___ zijn vriend.",
+   "answer": "naast",
+   "de": "Er sitzt neben seinem Freund."
+  },
+  {
+   "id": "p-0010",
+   "nl": "De tuin ligt ___ het huis.",
+   "answer": "achter",
+   "de": "Der Garten liegt hinter dem Haus."
+  },
+  {
+   "id": "p-0011",
+   "nl": "Het station ligt ___ de kerk en het museum.",
+   "answer": "tussen",
+   "de": "Der Bahnhof liegt zwischen der Kirche und dem Museum."
+  },
+  {
+   "id": "p-0012",
+   "nl": "We lopen ___ het park.",
+   "answer": "door",
+   "de": "Wir gehen durch den Park."
+  },
+  {
+   "id": "p-0013",
+   "nl": "Ik drink koffie ___ suiker.",
+   "answer": "zonder",
+   "de": "Ich trinke Kaffee ohne Zucker."
+  },
+  {
+   "id": "p-0014",
+   "nl": "Hij staat ___ de deur en wacht.",
+   "answer": "voor",
+   "de": "Er steht vor der Tür und wartet."
+  },
+  {
+   "id": "p-0015",
+   "nl": "De fiets staat ___ de muur.",
+   "answer": "tegen",
+   "de": "Das Fahrrad steht an der Wand."
+  },
+  {
+   "id": "p-0016",
+   "nl": "Dit cadeau is ___ jou.",
+   "answer": "voor",
+   "de": "Dieses Geschenk ist für dich."
+  },
+  {
+   "id": "p-0017",
+   "nl": "Ik woon hier al ___ 2019.",
+   "answer": "sinds",
+   "de": "Ich wohne hier schon seit 2019."
+  },
+  {
+   "id": "p-0018",
+   "nl": "De winkel is open ___ zes uur.",
+   "answer": "tot",
+   "de": "Der Laden hat bis sechs Uhr geöffnet."
+  },
+  {
+   "id": "p-0019",
+   "nl": "De les begint ___ negen uur.",
+   "answer": "om",
+   "de": "Der Unterricht beginnt um neun Uhr."
+  },
+  {
+   "id": "p-0020",
+   "nl": "Ik ben ___ maandag jarig.",
+   "answer": "op",
+   "de": "Ich habe am Montag Geburtstag."
+  },
+  {
+   "id": "p-0021",
+   "nl": "We gaan ___ de zomer naar Spanje.",
+   "answer": "in",
+   "de": "Wir fahren im Sommer nach Spanien."
+  },
+  {
+   "id": "p-0022",
+   "nl": "Hij werkt ___ een bank.",
+   "answer": "bij",
+   "de": "Er arbeitet bei einer Bank."
+  },
+  {
+   "id": "p-0023",
+   "nl": "Ik logeer ___ mijn oma.",
+   "answer": "bij",
+   "de": "Ich übernachte bei meiner Oma."
+  },
+  {
+   "id": "p-0024",
+   "nl": "Het glas is gevuld ___ water.",
+   "answer": "met",
+   "de": "Das Glas ist mit Wasser gefüllt."
+  },
+  {
+   "id": "p-0025",
+   "nl": "Ik schrijf een brief ___ mijn moeder.",
+   "answer": "aan|naar",
+   "de": "Ich schreibe einen Brief an meine Mutter."
+  },
+  {
+   "id": "p-0026",
+   "nl": "Dit is het boek ___ mijn broer.",
+   "answer": "van",
+   "de": "Das ist das Buch meines Bruders."
+  },
+  {
+   "id": "p-0027",
+   "nl": "We wandelen ___ de rivier.",
+   "answer": "langs",
+   "de": "Wir spazieren am Fluss entlang."
+  },
+  {
+   "id": "p-0028",
+   "nl": "Hij belde me ___ het eten.",
+   "answer": "tijdens",
+   "de": "Er rief mich während des Essens an."
+  },
+  {
+   "id": "p-0029",
+   "nl": "___ het werk ga ik sporten.",
+   "answer": "na",
+   "de": "Nach der Arbeit gehe ich Sport machen."
+  },
+  {
+   "id": "p-0030",
+   "nl": "Was je handen ___ het eten.",
+   "answer": "voor",
+   "de": "Wasch dir vor dem Essen die Hände."
+  },
+  {
+   "id": "p-0031",
+   "nl": "De trein vertrekt ___ spoor 5.",
+   "answer": "van|vanaf",
+   "de": "Der Zug fährt von Gleis 5 ab."
+  },
+  {
+   "id": "p-0032",
+   "nl": "Ik heb hem ___ het station ontmoet.",
+   "answer": "op|bij",
+   "de": "Ich habe ihn am Bahnhof getroffen."
+  },
+  {
+   "id": "p-0033",
+   "nl": "Ze zit ___ de bus.",
+   "answer": "in",
+   "de": "Sie sitzt im Bus."
+  },
+  {
+   "id": "p-0034",
+   "nl": "Er ligt sneeuw ___ het dak.",
+   "answer": "op",
+   "de": "Auf dem Dach liegt Schnee."
+  },
+  {
+   "id": "p-0035",
+   "nl": "Hij springt ___ het water.",
+   "answer": "in",
+   "de": "Er springt ins Wasser."
+  },
+  {
+   "id": "p-0036",
+   "nl": "Ze kijkt ___ het raam naar buiten.",
+   "answer": "door|uit",
+   "de": "Sie schaut aus dem Fenster nach draußen."
+  },
+  {
+   "id": "p-0037",
+   "nl": "De auto rijdt ___ de brug.",
+   "answer": "over",
+   "de": "Das Auto fährt über die Brücke."
+  },
+  {
+   "id": "p-0038",
+   "nl": "Het vliegtuig vliegt ___ de stad.",
+   "answer": "over|boven",
+   "de": "Das Flugzeug fliegt über die Stadt."
+  },
+  {
+   "id": "p-0039",
+   "nl": "We praten ___ het weer.",
+   "answer": "over",
+   "de": "Wir reden über das Wetter."
+  },
+  {
+   "id": "p-0040",
+   "nl": "Ik heb een vraag ___ de huur.",
+   "answer": "over",
+   "de": "Ich habe eine Frage zur Miete."
+  },
+  {
+   "id": "p-0041",
+   "nl": "Het museum is ___ de hoek.",
+   "answer": "om",
+   "de": "Das Museum ist um die Ecke."
+  },
+  {
+   "id": "p-0042",
+   "nl": "Hij woont ___ de tweede verdieping.",
+   "answer": "op",
+   "de": "Er wohnt im zweiten Stock."
+  },
+  {
+   "id": "p-0043",
+   "nl": "We eten ___ een restaurant.",
+   "answer": "in",
+   "de": "Wir essen in einem Restaurant."
+  },
+  {
+   "id": "p-0044",
+   "nl": "De sleutel zit ___ mijn tas.",
+   "answer": "in",
+   "de": "Der Schlüssel ist in meiner Tasche."
+  },
+  {
+   "id": "p-0045",
+   "nl": "Ze komt ___ de fiets naar haar werk.",
+   "answer": "op|met",
+   "de": "Sie kommt mit dem Fahrrad zur Arbeit."
+  },
+  {
+   "id": "p-0046",
+   "nl": "Ik ga ___ voet naar de markt.",
+   "answer": "te",
+   "de": "Ich gehe zu Fuß zum Markt."
+  },
+  {
+   "id": "p-0048",
+   "nl": "Ik ben ___ vakantie in Frankrijk.",
+   "answer": "op",
+   "de": "Ich bin im Urlaub in Frankreich."
+  },
+  {
+   "id": "p-0050",
+   "nl": "Het kind verstopt zich ___ de boom.",
+   "answer": "achter",
+   "de": "Das Kind versteckt sich hinter dem Baum."
+  },
+  {
+   "id": "p-0051",
+   "nl": "Ik zet de bloemen ___ de vaas.",
+   "answer": "in",
+   "de": "Ich stelle die Blumen in die Vase."
+  },
+  {
+   "id": "p-0052",
+   "nl": "Hij legt het bord ___ de tafel.",
+   "answer": "op",
+   "de": "Er legt den Teller auf den Tisch."
+  },
+  {
+   "id": "p-0053",
+   "nl": "De hond rent ___ de bal aan.",
+   "answer": "achter",
+   "de": "Der Hund rennt dem Ball hinterher."
+  },
+  {
+   "id": "p-0054",
+   "nl": "Wij gaan ___ de bioscoop.",
+   "answer": "naar",
+   "de": "Wir gehen ins Kino."
+  },
+  {
+   "id": "p-0055",
+   "nl": "Ze gaat ___ de dokter.",
+   "answer": "naar",
+   "de": "Sie geht zum Arzt."
+  },
+  {
+   "id": "p-0056",
+   "nl": "We vertrekken ___ een uur.",
+   "answer": "over",
+   "de": "Wir fahren in einer Stunde los."
+  },
+  {
+   "id": "p-0058",
+   "nl": "Het concert is ___ 20 mei.",
+   "answer": "op",
+   "de": "Das Konzert ist am 20. Mai."
+  },
+  {
+   "id": "p-0059",
+   "nl": "Ik ben geboren ___ 1990.",
+   "answer": "in",
+   "de": "Ich bin 1990 geboren."
+  },
+  {
+   "id": "p-0060",
+   "nl": "Hij komt ___ de middag langs.",
+   "answer": "in",
+   "de": "Er kommt am Nachmittag vorbei."
+  },
+  {
+   "id": "p-0061",
+   "nl": "Zij woont ___ de overkant van de straat.",
+   "answer": "aan",
+   "de": "Sie wohnt auf der anderen Straßenseite."
+  },
+  {
+   "id": "p-0062",
+   "nl": "Het huis staat ___ zee.",
+   "answer": "aan",
+   "de": "Das Haus steht am Meer."
+  },
+  {
+   "id": "p-0063",
+   "nl": "We zitten ___ tafel.",
+   "answer": "aan",
+   "de": "Wir sitzen am Tisch."
+  },
+  {
+   "id": "p-0064",
+   "nl": "Hij zit ___ de computer te werken.",
+   "answer": "achter",
+   "de": "Er sitzt am Computer und arbeitet."
+  },
+  {
+   "id": "p-0065",
+   "nl": "De kinderen spelen ___ straat.",
+   "answer": "op",
+   "de": "Die Kinder spielen auf der Straße."
+  },
+  {
+   "id": "p-0066",
+   "nl": "Ik werk ___ een kantoor in het centrum.",
+   "answer": "op|in",
+   "de": "Ich arbeite in einem Büro im Zentrum."
+  },
+  {
+   "id": "p-0067",
+   "nl": "Hij studeert ___ de universiteit van Leiden.",
+   "answer": "aan|op",
+   "de": "Er studiert an der Universität Leiden."
+  },
+  {
+   "id": "p-0068",
+   "nl": "Zij zit nog ___ school.",
+   "answer": "op",
+   "de": "Sie geht noch zur Schule."
+  },
+  {
+   "id": "p-0069",
+   "nl": "Ik heb een kamer ___ uitzicht op zee.",
+   "answer": "met",
+   "de": "Ich habe ein Zimmer mit Meerblick."
+  },
+  {
+   "id": "p-0070",
+   "nl": "Dit cadeau is ___ mijn zus gekocht.",
+   "answer": "voor",
+   "de": "Dieses Geschenk wurde für meine Schwester gekauft."
+  },
+  {
+   "id": "p-0071",
+   "nl": "De brief is geschreven ___ mijn opa.",
+   "answer": "door",
+   "de": "Der Brief wurde von meinem Opa geschrieben."
+  },
+  {
+   "id": "p-0072",
+   "nl": "Ik ben ziek ___ de kou.",
+   "answer": "van",
+   "de": "Ich bin krank von der Kälte."
+  },
+  {
+   "id": "p-0073",
+   "nl": "Hij trilt ___ angst.",
+   "answer": "van",
+   "de": "Er zittert vor Angst."
+  },
+  {
+   "id": "p-0075",
+   "nl": "Het water is ___ het kookpunt.",
+   "answer": "op",
+   "de": "Das Wasser ist am Siedepunkt."
+  },
+  {
+   "id": "p-0076",
+   "nl": "Ze werkt ___ maandag tot vrijdag.",
+   "answer": "van",
+   "de": "Sie arbeitet von Montag bis Freitag."
+  },
+  {
+   "id": "p-0077",
+   "nl": "De supermarkt is open van acht ___ tien.",
+   "answer": "tot",
+   "de": "Der Supermarkt hat von acht bis zehn geöffnet."
+  },
+  {
+   "id": "p-0078",
+   "nl": "Ik heb hem ___ toeval gezien.",
+   "answer": "bij",
+   "de": "Ich habe ihn zufällig gesehen."
+  },
+  {
+   "id": "p-0079",
+   "nl": "Hij woont ___ zijn ouders.",
+   "answer": "bij",
+   "de": "Er wohnt bei seinen Eltern."
+  },
+  {
+   "id": "p-0080",
+   "nl": "De pen ligt ___ het boek en de telefoon.",
+   "answer": "tussen",
+   "de": "Der Stift liegt zwischen dem Buch und dem Telefon."
+  },
+  {
+   "id": "p-0081",
+   "nl": "Hij gaat ___ zijn moeder winkelen.",
+   "answer": "met",
+   "de": "Er geht mit seiner Mutter einkaufen."
+  },
+  {
+   "id": "p-0082",
+   "nl": "Ik betaal ___ de kaart.",
+   "answer": "met",
+   "de": "Ich bezahle mit der Karte."
+  },
+  {
+   "id": "p-0083",
+   "nl": "Ze schrijft ___ een pen.",
+   "answer": "met",
+   "de": "Sie schreibt mit einem Stift."
+  },
+  {
+   "id": "p-0084",
+   "nl": "Hij kijkt ___ de klok.",
+   "answer": "op|naar",
+   "de": "Er schaut auf die Uhr."
+  },
+  {
+   "id": "p-0085",
+   "nl": "We wachten ___ de bus.",
+   "answer": "op",
+   "de": "Wir warten auf den Bus."
+  },
+  {
+   "id": "p-0086",
+   "nl": "Ik denk vaak ___ jou.",
+   "answer": "aan",
+   "de": "Ich denke oft an dich."
+  },
+  {
+   "id": "p-0087",
+   "nl": "Zij luistert ___ muziek.",
+   "answer": "naar",
+   "de": "Sie hört Musik."
+  },
+  {
+   "id": "p-0088",
+   "nl": "Hij is bang ___ honden.",
+   "answer": "voor",
+   "de": "Er hat Angst vor Hunden."
+  },
+  {
+   "id": "p-0089",
+   "nl": "Ik ben trots ___ je.",
+   "answer": "op",
+   "de": "Ich bin stolz auf dich."
+  },
+  {
+   "id": "p-0090",
+   "nl": "Ze is verliefd ___ hem.",
+   "answer": "op",
+   "de": "Sie ist in ihn verliebt."
+  },
+  {
+   "id": "p-0091",
+   "nl": "Ik heb zin ___ een ijsje.",
+   "answer": "in",
+   "de": "Ich habe Lust auf ein Eis."
+  },
+  {
+   "id": "p-0092",
+   "nl": "We kijken ___ een film.",
+   "answer": "naar",
+   "de": "Wir sehen uns einen Film an."
+  },
+  {
+   "id": "p-0093",
+   "nl": "Hij houdt ___ voetbal.",
+   "answer": "van",
+   "de": "Er mag Fußball."
+  },
+  {
+   "id": "p-0094",
+   "nl": "Ze zorgt ___ haar kinderen.",
+   "answer": "voor",
+   "de": "Sie sorgt für ihre Kinder."
+  },
+  {
+   "id": "p-0095",
+   "nl": "Het hangt ___ het weer af.",
+   "answer": "van",
+   "de": "Es hängt vom Wetter ab."
+  },
+  {
+   "id": "p-0096",
+   "nl": "De trein ___ Amsterdam heeft vertraging.",
+   "answer": "naar",
+   "de": "Der Zug nach Amsterdam hat Verspätung."
+  },
+  {
+   "id": "p-0097",
+   "nl": "Ik kom net ___ de supermarkt.",
+   "answer": "uit|van",
+   "de": "Ich komme gerade aus dem Supermarkt."
+  },
+  {
+   "id": "p-0098",
+   "nl": "Hij neemt het boek ___ de kast.",
+   "answer": "uit",
+   "de": "Er nimmt das Buch aus dem Schrank."
+  },
+  {
+   "id": "p-0099",
+   "nl": "Ze stapt ___ de trein en zoekt een plaats.",
+   "answer": "in",
+   "de": "Sie steigt in den Zug."
+  },
+  {
+   "id": "p-0100",
+   "nl": "Er staat een boom ___ het huis.",
+   "answer": "voor",
+   "de": "Vor dem Haus steht ein Baum."
+  },
+  {
+   "id": "p-0101",
+   "nl": "Het meisje ___ de rode jas is mijn zus.",
+   "answer": "met",
+   "de": "Das Mädchen mit der roten Jacke ist meine Schwester."
+  },
+  {
+   "id": "p-0102",
+   "nl": "We gaan ___ het weekend naar zee.",
+   "answer": "in",
+   "de": "Wir fahren am Wochenende ans Meer."
+  },
+  {
+   "id": "p-0103",
+   "nl": "Ik ben ___ het werk.",
+   "answer": "op",
+   "de": "Ich bin auf der Arbeit."
+  },
+  {
+   "id": "p-0105",
+   "nl": "De bus stopt ___ het station.",
+   "answer": "bij",
+   "de": "Der Bus hält am Bahnhof."
+  },
+  {
+   "id": "p-0106",
+   "nl": "Ik leer Nederlands ___ een app.",
+   "answer": "met",
+   "de": "Ich lerne Niederländisch mit einer App."
+  },
+  {
+   "id": "p-0107",
+   "nl": "Ze heeft een brief ___ de buren gekregen.",
+   "answer": "van",
+   "de": "Sie hat einen Brief von den Nachbarn bekommen."
+  },
+  {
+   "id": "p-0108",
+   "nl": "Het kind is ___ de boom geklommen.",
+   "answer": "in",
+   "de": "Das Kind ist auf den Baum geklettert."
+  },
+  {
+   "id": "p-0109",
+   "nl": "Hij werkt ___ een nieuw project.",
+   "answer": "aan",
+   "de": "Er arbeitet an einem neuen Projekt."
+  },
+  {
+   "id": "p-0110",
+   "nl": "Zij reist ___ Italië naar Griekenland.",
+   "answer": "van",
+   "de": "Sie reist von Italien nach Griechenland."
+  },
+  {
+   "id": "p-0111",
+   "nl": "We fietsen ___ het strand.",
+   "answer": "naar",
+   "de": "Wir radeln zum Strand."
+  },
+  {
+   "id": "p-0112",
+   "nl": "De kat zit ___ het raam.",
+   "answer": "voor|bij",
+   "de": "Die Katze sitzt vor dem Fenster."
+  },
+  {
+   "id": "p-0113",
+   "nl": "Ik ga ___ jou naar het feest.",
+   "answer": "met",
+   "de": "Ich gehe mit dir zur Party."
+  },
+  {
+   "id": "p-0114",
+   "nl": "Het restaurant is ___ maandag gesloten.",
+   "answer": "op",
+   "de": "Das Restaurant ist montags geschlossen."
+  },
+  {
+   "id": "p-0115",
+   "nl": "Hij komt ___ tien minuten.",
+   "answer": "over",
+   "de": "Er kommt in zehn Minuten."
+  },
+  {
+   "id": "p-0116",
+   "nl": "Het pakje ligt ___ de deur.",
+   "answer": "voor",
+   "de": "Das Päckchen liegt vor der Tür."
+  },
+  {
+   "id": "p-0117",
+   "nl": "Ze leunt ___ de muur.",
+   "answer": "tegen",
+   "de": "Sie lehnt an der Wand."
+  },
+  {
+   "id": "p-0118",
+   "nl": "Wij spelen ___ een sterk team.",
+   "answer": "tegen",
+   "de": "Wir spielen gegen eine starke Mannschaft."
+  },
+  {
+   "id": "p-0120",
+   "nl": "De kinderen lopen ___ elkaar.",
+   "answer": "achter",
+   "de": "Die Kinder gehen hintereinander."
+  }
+ ]
+}
